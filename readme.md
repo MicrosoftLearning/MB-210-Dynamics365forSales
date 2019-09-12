@@ -26,7 +26,7 @@
 
 - Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- You can submit bugs, changes, improvement and ideas.  Find a new Dynamics 365 or Power Platform feature before we have?  Submit a new demo!
 
 ## Notes
 
