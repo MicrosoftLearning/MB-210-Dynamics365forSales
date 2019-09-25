@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab: Make a playbook'
+    module: 'Module 2: From Lead to Opportunity'
+---
+
 Module 2: From Lead to Opportunity
 ==================================
 
