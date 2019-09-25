@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab: Build quotes'
+    module: 'Module 3: From Quote to Orders'
+---
+
+
 Module 3: From Quote to Orders
 ==============================
 
