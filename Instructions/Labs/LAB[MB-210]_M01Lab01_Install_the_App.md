@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab: Install the app'
+    module: 'Module 1: Sales Overview'
+---
+
+
 Module 1: Sales Overview
 ========================
 
