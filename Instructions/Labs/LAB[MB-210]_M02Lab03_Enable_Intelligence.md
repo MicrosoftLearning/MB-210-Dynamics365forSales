@@ -1,7 +1,13 @@
+---
+lab:
+    title: 'Lab: Enable intelligence'
+    module: 'Module 2: From Lead to Opportunity'
+---
+
 Module 2: From Lead to Opportunity
 ==================================
 
-## Practice Lab 3 – Enable Intelligence
+## Practice Lab 3 – Enable intelligence
 
 Scenario
 --------
