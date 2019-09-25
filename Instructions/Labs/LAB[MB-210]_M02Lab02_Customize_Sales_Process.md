@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab: Customize the sales process'
+    module: 'Module 2: From Lead to Opportunity'
+---
+
+
 Module 2: From Lead to Opportunity
 ==================================
 
