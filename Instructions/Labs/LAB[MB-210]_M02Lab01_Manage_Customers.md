@@ -1,7 +1,14 @@
+---
+lab:
+    title: 'Lab: Manage Customers'
+    module: 'Module 2: From Lead to Opportunity'
+---
+
+
 Module 2: From Lead to Opportunity
 ==================================
 
-##Practice Lab 2 – Manage customers
+## Practice Lab 2 – Manage customers
 
 Scenario
 --------
