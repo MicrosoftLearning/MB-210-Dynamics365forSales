@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab: Power BI'
+    module: 'Module 4: Sales Analytics and Insights'
+---
+
+
 Module 4: Sales Analytics and Insights
 ======================================
 
