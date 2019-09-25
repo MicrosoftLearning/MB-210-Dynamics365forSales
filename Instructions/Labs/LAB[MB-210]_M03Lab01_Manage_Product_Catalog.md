@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab: Manage product catalog'
+    module: 'Module 3: From Quote to Orders'
+---
+
 Module 3: From Quote to Orders
 ==============================
 
