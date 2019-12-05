@@ -7,7 +7,7 @@ lab:
 Module 2: From Lead to Opportunity
 ==================================
 
-## Practice Lab 4 – Make a playbook
+## Practice Lab – Make a playbook
 
 Scenario
 --------
