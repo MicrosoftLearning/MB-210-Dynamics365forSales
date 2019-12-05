@@ -1,26 +1,24 @@
 ---
 lab:
-    title: 'Lab: Enable intelligence'
-    module: 'Module 2: From Lead to Opportunity'
+    title: 'Lab: Sales Insights'
+    module: 'Module 4: Sales Analytics and Insights'
 ---
 
-Module 2: From Lead to Opportunity
+Module 4: Sales Analytics and Insights
 ==================================
 
-## Practice Lab 3 – Enable intelligence
+## Practice Lab – Sales Insights
 
 Scenario
 --------
 
-One of the primary selling points of Dynamics 365 for Sales to World Wide
+One of the primary selling points of Dynamics 365 Sales to World Wide
 Importers (WWI) was the integration of Artificial Intelligence (AI) to make
 sales data immediately actionable for their sales users. You are a functional
-consultant configuring Dynamics 365 for Sales for World Wide Importers. You have
-been tasked with enabling out of the box AI functionality so that users can use
+consultant configuring Dynamics 365 Sales for World Wide Importers. You have
+been tasked with enabling out of the box Insights functionality so that users can use
 tools such as the relationship assistant, productivity cards and email
-intelligence. In this lab, you will enable sales intelligence, relationship
-assistant, email engagement, and auto capture, relationship analytics,
-predictive lead scoring, notes analysis, and connection insights.
+intelligence. In this lab, you will enable Sales Insights and explore the settings.
 
 **Important Note:** This lab will provide you with an actual Dynamics 365 tenant
 and licenses for the Power platform applications you will be using in this
@@ -37,7 +35,7 @@ Exercise 1 - Acquire Tenant Information and Connect
 ---------------------------------------------------
 
 Note: If you have already completed a practice recently, the virtual machine
-might pickup where you left off and you will not need to login again.  In that
+might pickup where you left off and you will not need to login again.  In that
 case you can skip ahead to exercise two and resume.
 
 ### Task 1 – Connect to the Power platform administration portal
@@ -47,7 +45,7 @@ case you can skip ahead to exercise two and resume.
 
 2.  Outside the VM in the online lab interface click Files and choose D365
     Credentials. This will allocate an Office 365 tenant for you to use in these
-    labs.  It will display the admin email and password for your tenant.  You
+    labs.  It will display the admin email and password for your tenant.  You
     should copy this information to notepad or similar for your reference.
 
 3.  In MB200-Dynamics_Lab launch Microsoft Edge from the taskbar. By default,
@@ -64,98 +62,43 @@ Exercise 2 – Sales Intelligence
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
-2.  Click on the **Site Map** button and click on the **…. More Options**
+2.  Click on the **Site Map** button and click on the **Sales Insights settings**
     button.
 
-3.  Select **App Settings**.
+3.  Examine what is available by default. You should see Assistant, Auto capture and Email engagement available.
 
-4.  Scroll down to the **Sales Intelligence** group and select **Personal
-    Configuration**.
-
-5.  Examine what is available by default. You will only have Base Cards
-    available by default.
-
-### Task 2 – Enable Embedded Intelligence
+### Task 2 – Enable and explore Sales Insights 
 
 In this task, you will enable Relationship Assistant, Email Engagement, and Auto
 Capture.
 
-1.  Click on the **Site Map** button.
+1.  In **Sales Insights settings**, confirm that you are on the **Overview tab.**
 
-2.  Scroll down to the **Sales Intelligence** group and select **System
-    Configuration**.
+2.  Scroll down to the **Terms of service** section and click the **I agree** button.
 
-3.  Select the **Relationship Assistant** tab. You will find that **Advanced
-    Cards** are not enabled because you haven’t accepted the privacy notice.
+3.  Assistant and Auto capture should now have **Manage >** links next to their tabs.
 
-4.  Select the **Overview** tab.
+4. Click **Grant permissons** next to Email Engagement and accept the permissions in the dialog box.
+**Note:** Additional permissions may be required to enable Email Engagement. Depending on your virtual machine, you may not be able to set up these permissions. If this is the case in your virtual machine, skip 
 
-5.  Review and click **I Accept**. Wait until the **Configure** button of the
-    **Relationship Assistant** comes to view.
+5.  Click on the **Manage** button next to Assistant.
 
-6.  Click on the **Configure** button.
+6.  You will be taken to the **Relationship Assistant** tab. Review and explore the available cards.
 
-7.  You will be taken to the **Relationship Assistant** tab. Check the **Enable
-    Enhanced Cards** checkbox.
+7. Select the **Recent Meeting** card and explore the card details. Toggle the card to **Off.** This card is now disabled.
 
-8.  Expand the **Email Cards from Exchange** section.
+8. Click **Save.**
 
-9.  Examine the options available to you.
+9. Return to the list of available cards. **Recent Meeting** should no longer be visible at the top of the list.
 
-10. Collapse **Email Cards from Exchange** section.
+10. Return to the Overview tab.
 
-11. Expand the **Relationship Analytics Cards** section.
+11. On the Overview tab, click **Manage >** next to Auto capture.
 
-12. Examine the options available to you and collapse it.
+12. Confirm Auto capture is enabled via the toggle.
 
-13. Expand the **Email Engagement Cards** section.
+13. Return to the Overview tab.
 
-14. Examine the options available to you and collapse it.
+14. On the Overview tab, click **Manage >** next to Email engagement.
 
-15. Expand the **Productivity Cards** section.
-
-16. Examine the options available to you and collapse it.
-
-17. Expand the **Today Cards** section.
-
-18. Examine the options available to and collapse it.
-
-19. Click **Save**.
-
-20. Select the Overview tab.
-
-21. Go to the **Email Engagement** tile and click **Grant Permission**.
-
-22. Click **Accept**.
-
-23. Close the permission browser tab.
-
-24. You will now have Relationship Assistant, Email Engagement, and Auto Capture
-    enabled.
-
-### Task 3 – Enable Dynamics 365 AI for Sales
-
-In this task, you will enable Relationship Analytics, Predictive Lead Scoring,
-Notes Analysis, and Connection Insights.
-
-1.  Scroll down to the Dynamics 365 AI for Sales section and click **Get it
-    Now**.
-
-2.  Click **Continue**.
-
-3.  The installation will start and can take up to 5 minutes.
-
-4.  Click **Go to Configuration**.
-
-5.  Enable **Email Engagement**.
-
-6.  Enable **Notes Analysis**.
-
-7.  Select the **Relationship Analytics** tab.
-
-8.  Check the **Enable Relationship** checkbox and click Save.
-
-9.  Select the **Connection Insights** tab.
-
-10. Check the **Turn on Talking Points** checkbox, check the **Turn on Who Knows
-    Whom** checkbox, and click **Save**.
+15. Confirm Email engagement is enabled via the toggle.
