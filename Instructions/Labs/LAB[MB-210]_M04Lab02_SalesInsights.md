@@ -79,7 +79,7 @@ Capture.
 3.  Assistant and Auto capture should now have **Manage >** links next to their tabs.
 
 4. Click **Grant permissons** next to Email Engagement and accept the permissions in the dialog box.
-**Note:** Additional permissions may be required to enable Email Engagement. Depending on your virtual machine, you may not be able to set up these permissions. If this is the case in your virtual machine, skip 
+**Note:** Additional permissions may be required to enable Email Engagement. Depending on your virtual machine, you may not be able to set up these permissions. If this is the case in your virtual machine, skip steps 14 and 15 in this task.
 
 5.  Click on the **Manage** button next to Assistant.
 
@@ -102,3 +102,27 @@ Capture.
 14. On the Overview tab, click **Manage >** next to Email engagement.
 
 15. Confirm Email engagement is enabled via the toggle.
+
+### Task 3 - Install Sales Insights 
+
+In this task, you will enable Notes analysis and Relationship analytics.
+
+1.  Return to the Overview tab.
+
+2. Scroll down to the "Get advanced AI capabilities with Sales Insights" section.
+
+3. Click the **Try Sales Insights** button.
+
+4. A new window will open with an installation screen. Accept the Online Service Terms and click Install. 
+
+5.  The installation will start and can take up to 5 minutes. While the installation is occurring, return to the Assistant section and explore the other available cards. Which cards would be the most useful in the daily life of a sales representative?
+
+6. Once Sales Insights is installed, return to the **Sales Insights settings** pages and refresh. You should now see new tabs in your left menu, including Notes analysis, relationship analytics, lead scoring and opportunity scoring.
+
+7.  Click on the **Notes Analysis** tab and enable the feature.
+
+8.  Select the **Relationship Analytics** tab.
+
+9.  Check the **Enable relationship analytics for your organization** checkbox and click Save. Review the data sources.
+
+Sales Insights is now enabled for your organization.
