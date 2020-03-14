@@ -72,29 +72,17 @@ install sample data.
 
 ### Task 1 – Install Sales Application
 
-1.  Navigate to <https://admin.powerplatform.microsoft.com>
+1.  Go back to <https://admin.Powerplatform.microsoft.com>
 
-2.  Expand **Admin Center** and click **Dynamics 365**.
+2.  Expand **Admin Centers** and select **Dynamics 365**.
 
-3.  Select the check box for: **None of these. Don’t customize my
-    organization.** When it finishes close the window.
+3.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform Admin center.**
 
-4.  Navigate to <https://admin.powerplatform.microsoft.com>
+4.  Enter **SalesPractice** for Name and URL if available (or enter a different URL). We will refer to this environment throughout the labs as the **Practice** environment. 
 
-5.  Expand **Admin Center** and click **Dynamics 365**.
+6.  Click **Save**.  
 
-6.  Select your instance and click edit **Solutions**. There are two edit
-    buttons; one for editing the instance and another for managing your
-    solutions, click on the one next to the Solutions.
-
-7.  Locate and select **Dynamics 365 Sales Application**.
-
-8.  Click **Install**.
-
-9.  Read the terms of service and click **Install**.
-
-10. Wait for the installation to complete. The status column will change to
-    Installed when completed. This may take several minutes to complete.
+It will take few minutes to save the environment. 
 
 ### Task 2 – Install Sample Data
 
