@@ -78,7 +78,7 @@ install sample data.
 
 3.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform Admin center.**
 
-4.  Enter **SalesPractice** for Name and URL if available (or enter a different URL). We will refer to this environment throughout the labs as the **Practice** environment. 
+4.  Enter **SalesPractice** for Name and URL if available (or enter a different URL).
 
 6.  Click **Save**.  
 
