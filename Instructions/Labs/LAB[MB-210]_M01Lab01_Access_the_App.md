@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab: Install the app'
+    title: 'Lab: Access the app'
     module: 'Module 1: Sales Overview'
 ---
 
@@ -8,7 +8,7 @@ lab:
 Module 1: Sales Overview
 ========================
 
-## Practice Lab 1 – Install the app
+## Practice Lab 1 – Access the app
 
 Scenario
 --------
