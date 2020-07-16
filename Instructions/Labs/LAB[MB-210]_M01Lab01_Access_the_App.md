@@ -47,6 +47,16 @@ Exercise 1 - Acquire Tenant Information and Connect
 
 **Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, workflows, etc. you create.
 
+6. Select **Environments.** In the Environments tab, select **+New.**
+
+7. In **Name**, write your alias and "Practice". (It should look like the following: **mollyc Practice**.) 
+
+6. Leave the other boxes as "United States" and "Trial." Change the toggle to Yes for "Create my database."
+
+7. Select **Create my environment.**
+
+8. Select **Save**. Your environment will take a few moments to be created. We will refer to this environment as your Practice environment throughout the duration of this course.
+
 
 Exercise 2 – Open the Dynamics 365 Sales application
 ---------------------------------------------------
