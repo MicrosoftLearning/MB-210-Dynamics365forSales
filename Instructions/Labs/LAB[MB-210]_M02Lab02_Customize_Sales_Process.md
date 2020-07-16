@@ -20,11 +20,11 @@ Importers. In this lab, you will create a business process flow to guide the
 sales process experience for users.
 
 **Important Note:** This lab will provide you with an actual Dynamics 365 tenant
-and licenses for the Power platform applications you will be using in this
+and licenses for the Power Platform applications you will be using in this
 course. You will only be provided with one tenant for the practice labs in this
 course. The settings and actions you take within this tenant do not roll-back or
-reset. Whereas the virtual machine you are provided with does reset each time
-you close the lab session. What’s more, Dynamics 365 is evolving all the time. The
+reset, whereas the virtual machine you are provided with does reset each time
+you close the lab session. Please be aware that Dynamics 365 is evolving all the time. The
 instructions in this document may be different from what you experience in your
 actual Dynamics 365 tenant. It is also possible to experience a delay of several
 minutes before the virtual machine has network connectivity to begin the labs.
