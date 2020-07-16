@@ -15,7 +15,7 @@ Scenario
 
 World Wide Importers (WWI) is looking to formalize their sales process to
 increase revenue and the give leadership stronger forecasting abilities. You are
-a functional consultant configuring Dynamics 365 for Sales for World Wide
+a functional consultant configuring Dynamics 365 Sales for World Wide
 Importers. In this lab, you will install the Sales application.
 
 **Important Note:** This lab will provide you with an actual Dynamics 365 tenant
