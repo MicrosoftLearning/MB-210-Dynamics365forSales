@@ -8,7 +8,7 @@ demo:
 Module 2: From Lead to Opportunity
 ==================================
 
-## Practice Lab 2 – Customize the sales process
+## Demo 1 – Customize the sales process
 
 Scenario
 --------
