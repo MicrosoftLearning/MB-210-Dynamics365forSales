@@ -8,7 +8,7 @@ demo:
 Module 2: From Lead to Opportunity
 ==================================
 
-## Demo 1 – Customize the sales process
+## Instructor Demo – Customize the sales process
 
 Scenario
 --------
@@ -27,7 +27,7 @@ Exercise 1 – Customize Business Process Flow
 In this task, you will create a new Business Process Flow from the Opportunity
 Sales Process and then test the new BPF.
 
-1.  Navigate to <https://make.powerapps.com>.**
+1.  Navigate to <https://make.powerapps.com>.
 
 2.  Ensure that you are in the **Contoso** environment. 
 - This demo will make configuration changes to the Dynamics 365 organization. Please ensure that this demo is only completed by an MCT.
