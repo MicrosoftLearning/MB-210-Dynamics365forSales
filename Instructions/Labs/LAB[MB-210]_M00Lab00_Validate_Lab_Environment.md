@@ -13,8 +13,11 @@ Module 0: Course introduction
 Scenario
 --------
 
-[OVERALL LAB SCENARIO HERE]
-
+World Wide Importers (WWI) is looking to formalize their sales process to
+increase revenue and the give leadership stronger forecasting abilities. You are
+a functional consultant configuring Dynamics 365 for Sales for World Wide
+Importers. In this lab, you will install the Sales application and install
+sample data.
 
 **Important Note:** This lab will provide you with an actual Dynamics 365 tenant
 and licenses for the Power Platform applications you will be using in this
@@ -60,6 +63,6 @@ In this exercise, you will open the Dynamics 365 model-driven application and ex
 
 3.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform Admin center.**
 
-4. From the list of available Dynamics 365 apps, select **[APPLICATION.]**
+4. From the list of available Dynamics 365 apps, select **Sales Hub.**
 
 5. Spend a few minutes exploring the application.
