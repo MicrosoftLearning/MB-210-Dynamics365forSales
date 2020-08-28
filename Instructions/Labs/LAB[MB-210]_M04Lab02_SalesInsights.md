@@ -20,52 +20,19 @@ been tasked with enabling out of the box Insights functionality so that users ca
 tools such as the relationship assistant, productivity cards and email
 intelligence. In this lab, you will enable Sales Insights and explore the settings.
 
-**Important Note:** This lab will provide you with an actual Dynamics 365 tenant
-and licenses for the Power platform applications you will be using in this
-course. You will only be provided with one tenant for the practice labs in this
-course. The settings and actions you take within this tenant do not roll-back or
-reset. Whereas the virtual machine you are provided with does reset each time
-you close the lab session. What’s more, Dynamics 365 is evolving all the time. The
-instructions in this document may be different from what you experience in your
-actual Dynamics 365 tenant. It is also possible to experience a delay of several
-minutes before the virtual machine has network connectivity to begin the labs.
+**Important Note:** This lab will provide you with an actual Dynamics 365 tenant and licenses for the Power Platform applications you will be using in this course. You will only be provided with one tenant for the practice labs in this course. The settings and actions you take within this tenant do not roll-back or reset, whereas the virtual machine you are provided with does reset each time you close the lab session. Please be aware that Dynamics 365 is evolving all the time. The instructions in this document may be different from what you experience in your actual Dynamics 365 tenant. It is also possible to experience a delay of several minutes before the virtual machine has network connectivity to begin the labs.
 
-
-Exercise 1 - Acquire Tenant Information and Connect
----------------------------------------------------
-
-Note: If you have already completed a practice recently, the virtual machine
-might pickup where you left off and you will not need to login again.  In that
-case you can skip ahead to exercise two and resume.
-
-### Task 1 – Connect to the Power platform administration portal
-
-1.  On Virtual machine MB200-Dynamics_Lab, sign in as Admin with the password
-    Pa55w.rd if you are not already logged in.
-
-2.  Outside the VM in the online lab interface click Files and choose D365
-    Credentials. This will allocate an Office 365 tenant for you to use in these
-    labs.  It will display the admin email and password for your tenant.  You
-    should copy this information to notepad or similar for your reference.
-
-3.  In MB200-Dynamics_Lab launch Microsoft Edge from the taskbar. By default,
-    the browser opens Office 365. Use the O365 credentials you just acquired in
-    the previous step to login.
-
-4.  Navigate in the browser to the Power platform admin portal at
-    [https://admin.Powerplatform.microsoft.com](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fadmin.Powerplatform.microsoft.com&data=02%7C01%7Cv-juya%40microsoft.com%7C4be5a28c6f1e41eefee808d687ae2dc7%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636845580068684293&sdata=cLrD%2FhTDb5sRbajtFR9RrztfyTDCo0xGS4k8FSxTaIc%3D&reserved=0)
-
-Exercise 2 – Sales Intelligence
+Exercise 1 – Sales Intelligence
 -------------------------------
 
 ### Task 1 – Review Personal Configuration
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
-2.  Click on the **Site Map** button and click on the **Sales Insights settings**
+2.  Click on the **Sales** button at the bottom of the left menu and click on the **Sales Insights settings**
     button.
 
-3.  Examine what is available by default. You should see Assistant, Auto capture and Email engagement available.
+3.  Examine what is available by default. 
 
 ### Task 2 – Enable and explore Sales Insights 
 
@@ -77,9 +44,6 @@ Capture.
 2.  Scroll down to the **Terms of service** section and click the **I agree** button.
 
 3.  Assistant and Auto capture should now have **Manage >** links next to their tabs.
-
-4. Click **Grant permissons** next to Email Engagement and accept the permissions in the dialog box.
-**Note:** Additional permissions may be required to enable Email Engagement. Depending on your virtual machine, you may not be able to set up these permissions. If this is the case in your virtual machine, skip steps 14 and 15 in this task.
 
 5.  Click on the **Manage** button next to Assistant.
 
@@ -97,32 +61,4 @@ Capture.
 
 12. Confirm Auto capture is enabled via the toggle.
 
-13. Return to the Overview tab.
 
-14. On the Overview tab, click **Manage >** next to Email engagement.
-
-15. Confirm Email engagement is enabled via the toggle.
-
-### Task 3 - Install Sales Insights 
-
-In this task, you will enable Notes analysis and Relationship analytics.
-
-1.  Return to the Overview tab.
-
-2. Scroll down to the "Get advanced AI capabilities with Sales Insights" section.
-
-3. Click the **Try Sales Insights** button.
-
-4. A new window will open with an installation screen. Accept the Online Service Terms and click Install. 
-
-5.  The installation will start and can take up to 5 minutes. While the installation is occurring, return to the Assistant section and explore the other available cards. Which cards would be the most useful in the daily life of a sales representative?
-
-6. Once Sales Insights is installed, return to the **Sales Insights settings** pages and refresh. You should now see new tabs in your left menu, including Notes analysis, relationship analytics, lead scoring and opportunity scoring.
-
-7.  Click on the **Notes Analysis** tab and enable the feature.
-
-8.  Select the **Relationship Analytics** tab.
-
-9.  Check the **Enable relationship analytics for your organization** checkbox and click Save. Review the data sources.
-
-Sales Insights is now enabled for your organization.
