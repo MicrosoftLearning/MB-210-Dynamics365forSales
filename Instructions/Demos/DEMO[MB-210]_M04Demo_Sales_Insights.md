@@ -7,7 +7,7 @@ lab:
 Module 4: Sales Analytics and Insights
 ==================================
 
-## Practice Lab – Sales Insights
+## Instructor Demo – Sales Insights
 
 Scenario
 --------
