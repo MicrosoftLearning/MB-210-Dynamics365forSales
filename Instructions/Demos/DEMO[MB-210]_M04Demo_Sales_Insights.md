@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab: Sales Insights'
+    title: 'Demo: Sales Insights'
     module: 'Module 4: Sales Analytics and Insights'
 ---
 
