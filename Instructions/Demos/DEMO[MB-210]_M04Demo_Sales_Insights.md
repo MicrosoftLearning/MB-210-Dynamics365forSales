@@ -1,10 +1,10 @@
 ---
 demo:
-    title: 'Demo: Sales Insights'
-    module: 'Module 4: Sales Analytics and Insights'
+    title: 'Demo 4.1: Sales Insights'
+    module: 'Module 2: Manage customers, leads, and opportunities'
 ---
 
-Module 4: Sales Analytics and Insights
+Module 2: Manage customers, leads, and opportunities
 ==================================
 
 ## Instructor Demo – Sales Insights
