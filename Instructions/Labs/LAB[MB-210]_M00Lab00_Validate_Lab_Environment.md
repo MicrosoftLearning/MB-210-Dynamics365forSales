@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab: Validate lab environment'
-    module: 'Module 0: Course introduction'
+    module: 'Module 1: Configure Dynamics 365 Sales'
 ---
 
 
-Module 0: Course introduction
+Module 1: Configure Dynamics 365 Sales
 ========================
 
 ## Practice Lab - Validate lab environment 
