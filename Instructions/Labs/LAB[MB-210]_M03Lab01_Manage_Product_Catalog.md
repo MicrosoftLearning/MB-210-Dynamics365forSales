@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab: Manage product catalog'
-    module: 'Module 3: From Quote to Orders'
+    title: 'Lab 3.2: Manage product catalog'
+    module: 'Module 3: Process sales orders'
 ---
 
-Module 3: From Quote to Orders
+Module 3: Process sales orders
 ==============================
 
-## Practice Lab 1 – Manage product catalog
+## Practice Lab 3.2 – Manage product catalog
 
 Scenario
 --------
