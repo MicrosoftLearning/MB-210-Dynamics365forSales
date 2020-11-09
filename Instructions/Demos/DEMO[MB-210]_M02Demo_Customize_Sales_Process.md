@@ -1,11 +1,11 @@
 ---
 demo:
-    title: 'Demo: Customize the sales process'
-    module: 'Module 2: From Lead to Opportunity'
+    title: 'Demo 2.1: Customize the sales process'
+    module: 'Module 2: Manage customers, leads, and opportunities'
 ---
 
 
-Module 2: From Lead to Opportunity
+Module 2: Manage customers, leads, and opportunities
 ==================================
 
 ## Instructor Demo – Customize the sales process
