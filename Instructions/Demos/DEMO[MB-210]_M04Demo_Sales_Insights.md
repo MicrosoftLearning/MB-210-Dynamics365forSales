@@ -1,10 +1,10 @@
 ---
 demo:
     title: 'Demo 4.1: Sales Insights'
-    module: 'Module 2: Manage customers, leads, and opportunities'
+    module: 'Module 4: Integrate components with Dynamics 365 Sales'
 ---
 
-Module 2: Manage customers, leads, and opportunities
+Module 4: Integrate components with Dynamics 365 Sales
 ==================================
 
 ## Instructor Demo – Sales Insights
