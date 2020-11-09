@@ -1,14 +1,14 @@
 ---
 lab:
-    title: 'Lab: Orders and invoices'
-    module: 'Module 3: From Quote to Orders'
+    title: 'Lab 3.4: Orders and invoices'
+    module: 'Module 3: Process sales orders'
 ---
 
 
-Module 3: From Quote to Orders
+Module 3: Process sales orders
 ==============================
 
-## Practice Lab 3 – Orders and invoices
+## Practice Lab 3.4 – Orders and invoices
 
 Scenario
 --------
