@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab: Make a playbook'
-    module: 'Module 2: From Lead to Opportunity'
+    title: 'Lab 3.1: Make a playbook'
+    module: 'Module 3: Process sales orders'
 ---
 
-Module 2: From Lead to Opportunity
+Module 3: Process sales orders
 ==================================
 
-## Practice Lab – Make a playbook
+## Practice Lab 3.1 – Make a playbook
 
 Scenario
 --------
