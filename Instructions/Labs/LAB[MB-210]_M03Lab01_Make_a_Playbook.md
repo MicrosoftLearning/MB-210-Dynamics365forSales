@@ -37,6 +37,18 @@ In this exercise, you will create two Playbook Templates: one for Opportunities
 with $1,000,000 or more estimated budget, and one for Opportunities with
 estimated budget between $500,000 and $1,000,000.
 
+### Task 0 – Enable Playbooks
+
+In this task you will enable Playbooks.
+
+1.  Go to your **Sales Hub** application.
+
+2.  Click on **Sales** at the bottom of the left menu to navigate the site map. Select **App Settings** from the list.
+
+3.  Locate and click **Playbook Settings** under the **Sales Administration** settings.
+
+4.  Click the toggle swich to **Enable.
+
 ### Task 1 – Create Playbook Categories
 
 In this task you will create Playbook Categories.
