@@ -43,7 +43,7 @@ In this task, you will create unit groups for the speakers.
 7.  Click **Related** and select **Units**.
 
 8.  You will find that you only have the default unit **Each** now; you will add
-    three more units. Click **+ Add New Unit**.
+    three more units. Click **+ New Unit**.
 
 9.  Enter **Speaker** for **Name**, **1** for **Quantity**, select **Each** for
     **Base Unit**, and click **Save & Create New** by selecting the carrot to the right of the **Save and Close** button.
@@ -52,7 +52,7 @@ In this task, you will create unit groups for the speakers.
     **Base Unit** and click **Save & Create New**.
 
 11. Enter **Set** for **Name**, **2** for **Quantity**, select **Pair** for
-    **Base Unit** and click **Save**.
+    **Base Unit** and click **Save and Close**.
 
 12. You will now have four unit groups in the list.
 
@@ -108,8 +108,7 @@ In this task, you will create products.
 
 5.  Enter **[my prefix] Top D. HiFi** for **Name**, enter **[myprefix]1234** for **Product ID**,
     select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix), select **Speaker** for **Default
-    Unit**, enter **2** for **Decimals Supported**, select **Products** for
-    **Subject** (you will need to expand Query to select it), and click **Save**.
+    Unit**, enter **2** for **Decimals Supported**, and click **Save**.
 
 6.  Select the **Additional Details** tab.
 
@@ -123,7 +122,7 @@ In this task, you will create products.
 
 10. Click **Publish**.
 
-11. Confirm the publishing.
+11. Click **Confirm** to publish.
 
 12. In the left menu, select **Products** in the Collateral group.
 
@@ -145,7 +144,7 @@ In this task, you will create products.
 
 19. Click **Publish**.
 
-20. Confirm the publishing.
+20. Click **Confirm** to publish.
 
 21. Select **Products** from the left menu.
 
@@ -167,7 +166,7 @@ In this task, you will create products.
 
 28. Click **Publish** to publish the product.
 
-29. Confirm the publishing.
+29. Click **Confirm** to publish.
 
 30. From the left menu, select **Products**.
 
