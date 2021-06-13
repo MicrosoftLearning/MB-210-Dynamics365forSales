@@ -49,6 +49,8 @@ In this task you will enable Playbooks.
 
 4.  Click the toggle swich to **Enable.
 
+**NOTE** If the toggle switch is already set to **Enable**, click **Apply**.
+
 ### Task 1 – Create Playbook Categories
 
 In this task you will create Playbook Categories.
