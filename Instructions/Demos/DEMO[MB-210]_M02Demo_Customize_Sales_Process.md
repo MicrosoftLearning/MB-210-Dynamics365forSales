@@ -1,11 +1,11 @@
 ---
 demo:
     title: 'Demo 2.1: Customize the sales process'
-    module: 'Module 2: Manage customers, leads, and opportunities'
+    module: 'Module 2: Manage leads and opportunities with Dynamics 365'
 ---
 
 
-Module 2: Manage customers, leads, and opportunities
+Module 2: Manage leads and opportunities with Dynamics 365
 ==================================
 
 ## Instructor Demo – Customize the sales process
