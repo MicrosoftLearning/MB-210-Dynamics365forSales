@@ -1,14 +1,14 @@
 ---
 lab:
-    title: 'Lab 3.3: Build quotes'
-    module: 'Module 3: Process sales orders'
+    title: 'Lab 3.2: Build quotes'
+    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
 
-Module 3: Process sales orders
+Module 3: Manage orders and product catalog with Dynamics 365
 ==============================
 
-## Practice Lab 3.3 – Build quotes
+## Practice Lab 3.2 – Build quotes
 
 Scenario
 --------
