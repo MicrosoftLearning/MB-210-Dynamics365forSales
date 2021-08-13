@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 3.2: Manage product catalog'
-    module: 'Module 3: Process sales orders'
+    title: 'Lab 3.1: Manage product catalog'
+    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
-Module 3: Process sales orders
+Module 3: Manage orders and product catalog with Dynamics 365
 ==============================
 
-## Practice Lab 3.2 – Manage product catalog
+## Practice Lab 3.1 – Manage product catalog
 
 Scenario
 --------
