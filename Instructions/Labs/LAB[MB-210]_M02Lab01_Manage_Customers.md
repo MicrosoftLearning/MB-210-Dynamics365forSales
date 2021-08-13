@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 2.1: Manage Customers'
-    module: 'Module 2: Manage customers, leads, and opportunities'
+    module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
 ---
 
 
-Module 2: Manage customers, leads, and opportunities
+Module 2: Manage leads and opportunities with Dynamics 365 Sales
 ==================================
 
 ## Practice Lab 2.1 – Manage customers
