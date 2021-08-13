@@ -1,10 +1,10 @@
 ---
 demo:
-    title: 'Demo 4.1: Sales Insights'
-    module: 'Module 4: Integrate components with Dynamics 365 Sales'
+    title: 'Demo 6.1: Sales Insights'
+    module: 'Module 6: Work with Dynamics 365 Sales Insights'
 ---
 
-Module 4: Integrate components with Dynamics 365 Sales
+Module 6: Work with Dynamics 365 Sales Insights
 ==================================
 
 ## Instructor Demo – Sales Insights
@@ -36,7 +36,7 @@ Exercise 1 – Sales Intelligence
 
 ### Task 2 – Enable and explore Sales Insights 
 
-In this task, you will enable Relationship Assistant, Email Engagement, and Auto
+In this task, you will enable Assistant, Email Engagement, and Auto
 Capture.
 
 1.  In **Sales Insights settings**, confirm that you are on the **Overview tab.**
