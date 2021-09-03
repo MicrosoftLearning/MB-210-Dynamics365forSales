@@ -46,7 +46,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 8.  Above the subgrid, click **+ Add Product.**
 
 9.  Select **[my prefix] DX Power Supply** for **Existing Product**, enter **2** for
-    **Quantity**, and click **Save & Create New**.
+    **Quantity**, and click **Save & close**.
 
 10. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, enter **1** for
     **Quantity** and click **Save & close**.
