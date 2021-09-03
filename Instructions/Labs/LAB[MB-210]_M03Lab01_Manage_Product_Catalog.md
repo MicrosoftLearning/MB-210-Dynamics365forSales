@@ -129,7 +129,7 @@ In this task, you will create products.
 13. Click **Add Product**.
 
 14. Enter **[my prefix] DX Power Supply** for **Name**, enter **[myprefix]4321** for **Product
-    Number**, select **Default Unit** for **Unit Group**, select **Primary
+    ID**, select **Default Unit** for **Unit Group**, select **Primary
     Unit** for **Default Unit**, enter **2** for **Decimals Supported**, and
     click **Save**.
 
