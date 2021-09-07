@@ -14,7 +14,7 @@ Scenario
 --------
 
 World Wide Importers (WWI) is looking to formalize their sales process to
-increase revenue and the give leadership stronger forecasting abilities. You are
+increase revenue and give leadership, the stronger forecasting abilities. You are
 a functional consultant configuring Dynamics 365 for Sales for World Wide
 Importers. In this lab, you will install the Sales application and install
 sample data.
@@ -43,10 +43,8 @@ Exercise 1 - Access the Dynamics 365 application
 
 ### Task 2 – Access the Dynamics 365 application
 
-1.  Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center.** Select **Dynamics 365.**
+1.  Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center.** Select **All Apps**
 
-2.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform admin center.**
+2. From the list of available Dynamics 365 apps, select **Sales Hub.**
 
-4. From the list of available Dynamics 365 apps, select **Sales Hub.**
-
-5. Spend a few minutes exploring the application.
+3. Spend a few minutes exploring the application.
