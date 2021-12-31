@@ -36,7 +36,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 4.  Enter **[my prefix] Interested in Top D. System** for **Topic**, select **Jon Doe** for
     **Contact**, select **Doe Inc.** for **Account** and click **Save**.
 
-5.  Select the **Products** tab.
+5.  Select the **Product Line Item** tab.
 
 6.  You must select a **Price List** before you can add Opportunity Products.
     Select **[my prefix] Top D. Electronics** for **Price List**.
@@ -79,7 +79,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 5.  The Quote form will open, and relevant information will be copied from the
     Opportunity.
 
-6.  Select the **Quote Lines** tab. Examine the **Products** sub-grid and make sure products and their
+6.  On the **[my prefix] Interested in Top D. System.** Quote page. Examine the **Products** sub-grid and make sure products and their
     quantities look as you expected. You can change the quantities and discount
     the price of each line item.
 
