@@ -52,7 +52,7 @@ two with company information.
 
 6.  Click **+ New** again.
 
-7.  Enter **[my prefix] Lead with Company** for **Title**, **Jon** for **First Name, Doe**
+7.  Enter **[my prefix] Lead with Company** for **Topic**, **Jon** for **First Name, Doe**
     for **Last Name**, **Doe Inc.** for **Company**, and click **Save**.
 
 8.  Click **+ New** one more time.
