@@ -57,7 +57,7 @@ two with company information.
 
 8.  Click **+ New** one more time.
 
-9.  Enter **[my prefix] Another Lead** for **Title**, **Jack** for **First Name**, **Smith** for
+9.  Enter **[my prefix] Another Lead** for **Topic**, **Jack** for **First Name**, **Smith** for
     **Last Name,** **Test Inc**. for **Company**, and click **Save**.
 
 Exercise 2 – Lead Qualifications
