@@ -32,6 +32,7 @@ In this task, you will create an Orders from a Quote.
 2.  In the left menu, select **Quotes.**
 
 3.  Open the **Quote** you created titled **[my prefix] Interested in Top D. System**.
+**Hint:** Change the view to **My Quotes** to retrieve the quotes created.
 
 4.  Click **Create Order**.
 
