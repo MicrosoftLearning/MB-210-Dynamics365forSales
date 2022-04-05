@@ -114,8 +114,8 @@ In this task, you will create products.
 
 7.  Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
 
-8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **Quantity
-    Discount** for **[my prefix] Discount List**, select **Whole** for **Quantity Selling
+8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **[my prefix] Quantity
+    Discount** for **Discount List**, select **Whole** for **Quantity Selling
     Option**, and select the **Pricing Information** tab.
 
 9.  Enter **150** for Amount and click **Save and Close**.
