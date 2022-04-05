@@ -45,7 +45,7 @@ In this task, you will create an Orders from a Quote.
 8.  Open the generated Word document and review the **Order**. Close the Order
     Summary.
 
-9.  Click **Fulfill Order**.
+9. Select the vertical ellipses button at the end of the command bar and select **Fulfill Order**.
 
 10. Click **Fulfill**. The record will become read-only. Do not navigate away from this page.
 
