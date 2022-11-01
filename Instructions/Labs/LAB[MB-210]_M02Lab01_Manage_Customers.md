@@ -119,7 +119,7 @@ created when a lead goes through the qualification process.
 
 ### Task 4 – Reactivate Lead
 
-1.  Go to your **Sales Hub**,application.
+1.  Go to your **Sales Hub** application.
 
 2.  Click on the **Site Map** button and select **Leads**.
 
