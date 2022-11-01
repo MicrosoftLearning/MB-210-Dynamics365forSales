@@ -163,7 +163,7 @@ In this task, you will create products.
 
 24. Select the **Additional Details** tab.
 
-25. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
+25. Click **+ New Price List Item** in the upper right. (If the button is not visible, click the vertical ellipsis on the top right of the **Price List Items** section to make the **+New Price List Item** visible.)
 
 26. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for
     **Quantity Selling Option**, and select the **Pricing Information** tab.
