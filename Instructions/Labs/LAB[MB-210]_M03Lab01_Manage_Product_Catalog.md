@@ -106,21 +106,27 @@ In this task, you will create products.
 
 4.  Click **Add Product.**
 
-5.  Enter **[my prefix] Top D. HiFi** for **Name**, enter **[myprefix]1234** for **Product ID**,
-    select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix), select **Speaker** for **Default
-    Unit**, enter **2** for **Decimals Supported**, and click **Save**.
+5.  Fill out the product details with the following information:
+    - Enter **[my prefix] Top D. HiFi** for **Name**
+    - Enter **[myprefix]1234** for **Product ID**
+    - Select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix)
+    - Select **Speaker** for **Default Unit**
+    - Enter **2** for **Decimals Supported**
+    - Click **Save**.
 
 6.  Select the **Additional Details** tab.
 
 7.  Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
 
-8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **[my prefix] Quantity
-    Discount** for **Discount List**, select **Whole** for **Quantity Selling
-    Option**, and select the **Pricing Information** tab.
+8.  Fill out the price list item with the following information:
+    - Select **[my prefix] Top D. Electronic** for **Price List**
+    - Select **[my prefix] Quantity Discount** for **Discount List**
+    - Select **Whole** for **Quantity Selling Option**
+    - Select the **Pricing Information** tab
+    - Enter **150** for Amount
+    - Click **Save and Close**.
 
-9.  Enter **150** for Amount and click **Save and Close**.
-
-10. Click **Publish**.
+10. You should navigate back to the Product. In the command bar on the Product, click **Publish**.
 
 11. Click **Confirm** to publish.
 
