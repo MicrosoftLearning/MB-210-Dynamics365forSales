@@ -62,7 +62,7 @@ In this task, you will create a Discount List for people that buy 3 or 4
 speakers. The 3rd speaker will get 15% discount and 4 to 50 speakers will get a
 25% discount.
 
-1.  select **Discount Lists** from the **Product Catalog** section of the left menu.
+1.  Select **Discount Lists** from the **Product Catalog** section of the left menu.
 
 2.  Click **+ New**.
 
