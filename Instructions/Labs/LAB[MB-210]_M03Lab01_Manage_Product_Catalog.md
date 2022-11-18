@@ -98,7 +98,7 @@ In this task, you will create a price list for the speakers.
 
 In this task, you will create products.
 
-1.  Click on the **App Settings** button.
+1.  Click on the **App Settings** change area.
 
 2.  Select **Sales**.
 
