@@ -33,7 +33,7 @@ In this task, you will create unit groups for the speakers.
 
 3.  Select **App Settings**.
 
-4.  From the **Product Catalog** group, select **Unit Groups.**
+4.  Select **Unit Groups** from the **Product Catalog** section of the left menu.
 
 5.  Click **+ New**.
 
