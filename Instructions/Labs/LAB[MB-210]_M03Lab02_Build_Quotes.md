@@ -74,7 +74,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 
 3.  Select the **Quotes** tab.
 
-4.  Click **+ New Quote**.
+4.  Above the subgrid, Click **+ New Quote**.
 
 5.  The Quote form will open, and relevant information will be copied from the
     Opportunity.
