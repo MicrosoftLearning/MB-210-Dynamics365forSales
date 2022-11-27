@@ -1,4 +1,14 @@
 
+---
+lab:
+    title: 'Lab 6.1: Build a sequence'
+    module: 'Module 6: Get started with Sales Insights'
+---
+
+
+Module 6: Get started with Sales Insights
+==============================
+
 ## Exercise 1: Create a new sequence
 
 In this sequence, we will create a "hello world" sales sequence for your sellers to follow.
