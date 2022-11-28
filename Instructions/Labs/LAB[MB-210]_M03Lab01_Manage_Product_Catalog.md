@@ -87,7 +87,7 @@ speakers. The 3rd speaker will get 15% discount and 4 to 50 speakers will get a
 
 In this task, you will create a price list for the speakers.
 
-1.  From the **Product Catalog** group, select **Price Lists.**
+1.  Select **Price Lists** from the **Product Catalog** section of the left menu. 
 
 2.  Click **+ New**.
 
