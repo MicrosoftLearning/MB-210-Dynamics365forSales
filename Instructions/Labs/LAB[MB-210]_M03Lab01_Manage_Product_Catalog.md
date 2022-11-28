@@ -102,7 +102,7 @@ In this task, you will create products.
 
 2.  Select **Sales**.
 
-3.  From the **Collateral** group, select **Products**.
+3.  Select **Products** from the **Collateral** section of the left menu.
 
 4.  Click **Add Product.**
 
