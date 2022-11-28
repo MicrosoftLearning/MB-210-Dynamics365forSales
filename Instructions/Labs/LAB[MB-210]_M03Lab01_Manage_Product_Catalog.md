@@ -29,7 +29,7 @@ In this task, you will create unit groups for the speakers.
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
-2.  Click on **Sales** in the bottom of the left menu.
+2.  Click **Change area**, by default **Sales** will be displayed in the bottom of the left menu.
 
 3.  Select **App Settings**.
 
