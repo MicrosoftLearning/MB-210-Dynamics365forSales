@@ -1,4 +1,3 @@
-
 ---
 lab:
     title: 'Lab 6.1: Build a sequence'
@@ -9,9 +8,14 @@ lab:
 Module 6: Get started with Sales Insights
 ==============================
 
-## Exercise 1: Create a new sequence
+## Practice Lab 6.1: Build a sequence 
 
-In this sequence, we will create a "hello world" sales sequence for your sellers to follow.
+Scenario
+--------
+
+Sellers suggest that sales could be improved if organizational "best practices" were easier to follow. The sales managers have determined the ideal sequence of sales events for sellers, and they want to enforce best practices by setting up the set of consecutive activities for sellers. To make these practices easily available to sellers to follow during the course of their day, you suggest creating a sequence.
+
+In this lab, we will create a simple sales sequence for your sellers to follow.
 
 ### Task 1: Create new sequence
 
