@@ -85,3 +85,19 @@ To make the sequence available for sellers to use, activate the sequence.
 2. Click **Activate** in the pop-up. 
 
 3. Your sequence will now have a green bar at the top telling you that the sequence was successfully activated.
+
+## Task 6: Connect the sequence to records
+
+1. Change the area in the bottom left hand corner by selecting **Sales.**
+
+2. Select **Leads** from the left menu.
+
+3. Select the lead you created earlier in the course. It should start with your prefix. If you have more than one, select one randomly.
+
+4. Select **Connect sequence** from the bar at the top of the record.
+
+5. The list of available sequences that appears includes sequences created by you and other users for the Lead table.
+
+5. Select the sequence you created (it should start with your prefix) and select **Connect.**
+
+6. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead records. Now, sellers who have access to the lead record can see the activities connected with it.
