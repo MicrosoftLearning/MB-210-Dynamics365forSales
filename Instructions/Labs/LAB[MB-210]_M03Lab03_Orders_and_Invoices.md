@@ -32,7 +32,8 @@ In this task, you will create an Orders from a Quote.
 2.  In the left menu, select **Quotes.**
 
 3.  Open the **Quote** you created titled **[my prefix] Interested in Top D. System**.
-**Hint:** Change the view to **My Quotes** to retrieve the quotes created.
+
+    **Hint:** Change the view to **My Quotes** to retrieve the quotes created.
 
 4.  Click **Create Order**.
 
@@ -48,7 +49,8 @@ In this task, you will create an Orders from a Quote.
 
 9. Select the vertical ellipses button at the end of the command bar and select **Fulfill Order**.
 
-10. Click **Fulfill**. The record will become read-only. Do not navigate away from this page.
+10. Select **Fulfill**. The record will become read-only. Do not navigate away from this page.
+
 
 ### Task 2 – Create Invoice
 
@@ -56,7 +58,7 @@ In this task, you will create an Invoice.
 
 1.  Make sure you are still in the **Order** form.
 
-2.  Click **Create Invoice**.
+2.  Select **Create Invoice** from the command bar.
 
 3.  The **Invoice** form will open.
 
@@ -68,4 +70,4 @@ In this task, you will create an Invoice.
 
 6.  We will assume the Customer paid in full. Click **Invoice Paid**.
 
-7.  Select **Complete** and click **OK**.
+7.  Select **OK** to mark the Invoice as Complete.
