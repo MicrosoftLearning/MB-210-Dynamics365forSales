@@ -21,11 +21,11 @@ Sales managers would like to more effectively monitor their sales team's success
 
 1. Select **Dashboards** from the left menu.
 
-1. By default, the Sales Activity Social dashboard will appear. Feel free to explore the various components. Additionally, you can use the carrot next to the title of the dashboard to explore other system dashboards.
+1. By default, the **Sales Activity Social** dashboard will appear. Feel free to explore the various components. Additionally, you can use the &#709; dropdown icon next to the title of the dashboard to explore other system dashboards.
 
-1. When you're ready to create your own dashboard, select **New**, and then select **Dynamics 365 Dashboard.**
+1. When you're ready to create your own dashboard, select **New**, and then select **Dynamics 365 Dashboard**.
 
-1. Explore the various dashboard layouts. Today we will be creating a 2-Column Regular Dashboard. When you are ready, select it from the list and select **Create.**
+1. Explore the various dashboard layouts. Today we will be creating a 2-Column Regular Dashboard. When you are ready, select it from the list and select **Create**.
 
 ## Task 2 - Add components
 
@@ -39,7 +39,7 @@ Sales managers would like to more effectively monitor their sales team's success
 	- Record Type: Opportunity
 	- View: Closed Opportunities
 	- Chart: Deals Won vs. Deals Lost
-	- Click **Add.**
+	- Click **Add**.
 
 1. Your chart will appear in the upper left section.
 
@@ -48,11 +48,11 @@ Sales managers would like to more effectively monitor their sales team's success
 1. Select the following details for your list:
 	- Record Type: Opportunities
 	- View: Closed Opportunities in Current Fiscal Year
-	- Click **Add.**
+	- Click **Add**.
 
 ## Task 3 - Save and edit your dashboard
 
-1. Click **Save.** Your window will close and you will return to your Dashboards area, where your dashboard will be displayed.
+1. Click **Save**. Your window will close and you will return to your Dashboards area, where your dashboard will be displayed.
 
 1. Click **Set as default** from the top menu. This dashboard will now be your default dashboard when you navigate to the Dashboards section.
 
