@@ -46,7 +46,7 @@ In this task, you will create unit groups for the speakers.
     three more units. Click **+ New Unit**.
 
 9.  Enter **Speaker** for **Name**, **1** for **Quantity**, select **Each** for
-    **Base Unit**, and click **Save & Create New** by selecting the carrot to the right of the **Save and Close** button.
+    **Base Unit**, and click **Save & Create New** by selecting the &#709; dropdown icon to the right of the **Save & Close** button.
 
 10. Enter **Pair** for **Name**, **2** for **Quantity**, select **Speaker** for
     **Base Unit** and click **Save & Create New**.
@@ -118,33 +118,29 @@ In this task, you will create products.
     Discount** for **Discount List**, select **Whole** for **Quantity Selling
     Option**, and select the **Pricing Information** tab.
 
-9.  Enter **150** for Amount and click **Save and Close**.
+9.  Enter **150** for Amount and select **Save & Close**.
 
-10. Click **Publish**.
+10. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
 
-11. Click **Confirm** to publish.
+11. In the left menu, select **Products** in the Collateral group.
 
-12. In the left menu, select **Products** in the Collateral group.
+12. Click **Add Product**.
 
-13. Click **Add Product**.
-
-14. Enter **[my prefix] DX Power Supply** for **Name**, enter **[myprefix]4321** for **Product
+13. Enter **[my prefix] DX Power Supply** for **Name**, enter **[myprefix]4321** for **Product
     ID**, select **Default Unit** for **Unit Group**, select **Primary
     Unit** for **Default Unit**, enter **2** for **Decimals Supported**, and
     click **Save**.
 
-15. Select the **Additional Details** tab.
+14. Select the **Additional Details** tab.
 
-16. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
+15. Click the vertical ellipsis on the top right of the **Price List Items** section. Click **+ New Price List Item**.
 
-17. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for
+16. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for
     **Quantity Selling Option**, and select the **Pricing Information** tab.
 
-18. Enter **120** for Amount and click **Save and Close**.
+17. Enter **120** for Amount and select **Save & Close**.
 
-19. Click **Publish**.
-
-20. Click **Confirm** to publish.
+18. If **Auto publish** is enabled; skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
 
 21. Select **Products** from the left menu.
 
@@ -162,12 +158,10 @@ In this task, you will create products.
 26. Select **[my prefix] Top D. Electronic** for **Price List**, select **Whole** for
     **Quantity Selling Option**, and select the **Pricing Information** tab.
 
-27. Enter **2500** for Amount and click **Save and Close**.
+27. Enter **2500** for Amount and select **Save & Close**.
 
-28. Click **Publish** to publish the product.
-
-29. Click **Confirm** to publish.
+28. If **Auto publish** is enabled; skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
 
 30. From the left menu, select **Products**.
 
-31. The products you created should show up on the **All Products, Families & Bundles** view. You can switch to this view using the carrot by the default view title. You can use the search bar to search for your prefix to find your products.
+31. The products you created should show up on the **All Products, Families & Bundles** view. You can switch to this view using the &#709; dropdown icon next to the default view title. You can use the **Filter by keyword** box to search for your prefix to find your products.
