@@ -164,4 +164,4 @@ In this task, you will create products.
 
 30. From the left menu, select **Products**.
 
-31. The products you created should show up on the **All Products, Families & Bundles** view. You can switch to this view using the &#709; dropdown icon next to the default view title. You can use the **Filter by keyword** box to search for your prefix to find your products.
+31. The products you created should show up on the **All Products, Families & Bundles** view. You can switch to this view by selecting the **&#709; dropdown icon** next to the default view title. You can use the **Filter by keyword** box to search for your prefix to find your products.
