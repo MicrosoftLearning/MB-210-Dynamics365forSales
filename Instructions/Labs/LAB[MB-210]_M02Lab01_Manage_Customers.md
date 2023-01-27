@@ -39,11 +39,11 @@ Exercise 1 – Manage Customers
 In this task, you will create three leads, one without company information and
 two with company information.
 
-1.  Go to your **Dynamics 365 Sales Hub** application.
+1.  Go to your **Dynamics 365 Sales Hub** application. Ensure you are in the **Sales** area, using the bottom left dropdown menu. 
 
-2. Navigate to the left menu and explore the options available.
+2.  Navigate to the left **Site Navigation** menu and explore the options available.
 
-3. Select **Leads** from the **Sales** section of the left menu.
+3.  In the left hand Site Navigation, under the **Sales** group, select **Leads**.
 
 4.  Click **+ New**.
 
@@ -83,7 +83,8 @@ created when a lead goes through the qualification process.
 
 7.  Locate the **Account** field. The field will be empty.
 
-8. Click **Save.**
+8. Click **Save**.
+
 
 ### Task 2 – Qualify Lead with Company
 
@@ -104,6 +105,7 @@ created when a lead goes through the qualification process.
 7.  Locate the **Account** field. You will find that **Doe Inc.** is now an
     **Account** record.
 
+
 ### Task 3 – Disqualify Lead
 
 1.  Go to your **Sales Hub** application.
@@ -114,14 +116,15 @@ created when a lead goes through the qualification process.
 
 4.  Click **Disqualify** and select **No Longer Interested**.
 
-5.  The Lead will be Disqualified, the status will change to No Longer
-    Interested, and the record will become Read Only.
+5.  The Lead will be **Disqualified**, the status will change to No Longer
+    Interested, and the record will become **Read-only**.
+
 
 ### Task 4 – Reactivate Lead
 
-1.  Go to your **Sales Hub**,application.
+1.  Go to your **Sales Hub** application.
 
-2.  Click on the **Site Map** button and select **Leads**.
+2.  In the Site Navigation, under the **Sales** group, select **Leads**.
 
 3.  The Lead you disqualified is no longer in the **My Open Leads** view. Change
     the View to **Closed Leads**.
@@ -130,5 +133,5 @@ created when a lead goes through the qualification process.
 
 5.  Click **Reactivate Lead**.
 
-6.  The Lead will be reactivated, the status will change to New, and the record
+6.  The Lead will be reactivated, the status will change back to New, and the record
     will become editable.
