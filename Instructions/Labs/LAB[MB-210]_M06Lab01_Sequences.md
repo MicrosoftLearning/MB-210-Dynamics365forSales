@@ -17,13 +17,23 @@ Sellers suggest that sales could be improved if organizational "best practices" 
 
 In this lab, we will create a simple sales sequence for your sellers to follow.
 
+
 ### Task 1: Create new sequence
 
-1. Click on **Sequences** tab in Sales insights settings.
+1. Change the area to **Sales Insights settings** using the bottom left &#709; dropdown menu icon.
 
-2. Click on **+ New sequence**.
+2. In the **Sales Insights** group, select **Global settings**.
 
-3. You have the option to create a sequence from a number of common templates. You can explore the templates available. When you're ready, select **Start from blank.** 
+3. In the **Sales accelerator** sub-group, select the **Sequences** tab.
+
+4. If necessary, select **Enable** on the notification to enable worflow for sequences to work properly.
+
+5. If necessary, select **Setup workspace**, then select **Quick setup**. Select **Publish** on the flyout pane.
+
+5. On the **Sequences** tab, select **+ New sequence**.
+
+6. You have the option to create a sequence from a number of common templates. You can explore the templates available. When you're ready, select **Start from blank.** 
+
 
 ### Task 2: Create basic information about the sequence
 
@@ -37,17 +47,18 @@ In this lab, we will create a simple sales sequence for your sellers to follow.
 
 4. Click **Next**.
 
+
 ### Task 3: Choose the first activity for seller to take
 
 Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. In our example, we will start with an email. 
 
-1. Underneath the **Sequence start** tile, select the **+** button.
+1. Underneath the **Sequence start** tile, select the **+** button to add an action or other element.
 
-3. Click on **Email**.
+2. Click on **Send an email**. 
 
-3. In the **Name** text box, enter the name of the email: **[my prefix] Introduction email**.
+3. For **Title**, enter: **[my prefix] Introduction email**.
 
-4. In the **Description** text box, enter the email description: **Introduce lead to the sales team.**
+4. For **Description** optionally, enter a description: **Introduce lead to the sales team.**
 
 5. If email templates, table specific or global templates, are available in your organization, you can choose an email template. In this case, we will assume that the seller will write their own introduction email.
 
@@ -65,39 +76,40 @@ To persist changes, after adding an activity, click on the **Save** button.
 1. Click on the **+** button.
 
 2. Choose the next activity for the seller to take, can be either sending
-an email, making a phone call or add a task of your own. You can also
-choose **Set wait time** to define a time-interval between activities. In our example we will add a time-interval of 1 hour.
+an email, making a phone call or add a task of your own. Select **Set wait time** to define a time-interval between activities. 
 
-2. Set the **Days** to 5.
+   In our example we will add a time-interval of **1 hour**.
 
 3. Click **Save**.
 
-4. In a similar manner we add a phone call activity. Select the **+** sign and select **Phone call**. For name, type **[my prefix] Follow-up call.** Add a description.
+4. In a similar manner, add a phone call activity. Select the **+** sign and select **Phone call**. For name, type **[my prefix] Follow-up call.** Add a description.
 
-5. Save the sequence created to be available for your organization. Select **Save** on the right upper area of the screen.
+5. Select **Save** on the command bar.
+
 
 ### Task 5: Activate the sequence
 
-To make the sequence available for sellers to use, activate the sequence.
+To make the sequence available for sellers to use, activate the sequence. 
 
-1. Select **Activate** on the right upper area of the screen.
+1. Select **Activate** on the command bar.
 
-2. Click **Activate** in the pop-up. 
+2. Select **Activate** in the pop-up. 
 
 3. Your sequence will now have a green bar at the top telling you that the sequence was successfully activated.
 
+
 ## Task 6: Connect the sequence to records
 
-1. Change the area in the bottom left hand corner by selecting **Sales.**
+1. Change the area using the bottom left dropdown menu, select the **Sales** area. 
 
-2. Select **Leads** from the left menu.
+2. Select **Leads** from the site navigation menu.
 
-3. Select the lead you created earlier in the course. It should start with your prefix. If you have more than one, select one randomly.
+3. **Open** the Lead you created earlier in the course. It should start with [your prefix]. If you have more than one, select one randomly.
 
-4. Select **Connect sequence** from the bar at the top of the record.
+4. Select **Connect sequence** from the command bar.
 
-5. The list of available sequences that appears includes sequences created by you and other users for the Lead table.
+   The list of available sequences includes sequences created by you and other users for the **Lead** table.
 
-5. Select the sequence you created (it should start with your prefix) and select **Connect.**
+5. Select the Sequence you created (it should start with your prefix) and select **Connect**.
 
-6. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead records. Now, sellers who have access to the lead record can see the activities connected with it.
+6. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record. Now, sellers who have access to the lead record can see the activities connected with it.
