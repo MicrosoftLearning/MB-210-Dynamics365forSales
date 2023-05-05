@@ -20,13 +20,13 @@ In this lab, we will create a simple sales sequence for your sellers to follow.
 
 ### Task 1: Create new sequence
 
-1. Change the area to **Sales Insights settings** using the bottom left &#709; dropdown menu icon.
+1. Change the area to **Sales Insights settings** using the bottom left &#709; drop-down menu icon.
 
 2. In the **Sales Insights** group, select **Global settings**.
 
 3. In the **Sales accelerator** sub-group, select the **Sequences** tab.
 
-4. If necessary, select **Enable** on the notification to enable worflow for sequences to work properly.
+4. If necessary, select **Enable** on the notification to enable workflow for sequences to work properly.
 
 5. If necessary, select **Setup workspace**, then select **Quick setup**. Select **Publish** on the flyout pane.
 
