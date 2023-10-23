@@ -4,133 +4,95 @@ lab:
     module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
 ---
 
-
 Module 2: Manage leads and opportunities with Dynamics 365 Sales
 ==================================
 
 ## Practice Lab 2.1 – Manage customers
 
-Scenario
---------
+As you review the imported leads, you notice that one lead is missing. Apparently, Tom Smith's card wasn't added to the leads file that you imported. You remember talking with Tom at the trade show, and it seemed like a successful opportunity. You eventually find Tom's card and now have to manually enter the lead in Dynamics 365.
 
-World Wide Importers (WWI) is looking to formalize their sales process and
-address the backlog of untouched leads imported by the marketing team from trade
-shows and campaigns. You are a sales analyst for the Dynamics 365 Sales
-implementation at World Wide Importers and have been asked to assess and update
-lead records so the executive team can work from an accurate pipeline report in
-the upcoming leadership meeting. In this lab, you will update lead records and
-qualify, disqualify and reactivate lead records.
+1. If necessary, in the site map, go back to **Sales** > **Leads**.
+2. On the command bar, select **New**.
+3. Enter the following values for the new lead:
 
-**Important Note:** This lab will provide you with an actual Dynamics 365 tenant
-and licenses for the Power Platform applications you will be using in this
-course. You will only be provided with one tenant for the practice labs in this
-course. The settings and actions you take within this tenant do not roll-back or
-reset, whereas the virtual machine you are provided with does reset each time
-you close the lab session. Please be aware that Dynamics 365 is evolving all the time. The
-instructions in this document may be different from what you experience in your
-actual Dynamics 365 tenant. It is also possible to experience a delay of several
-minutes before the virtual machine has network connectivity to begin the labs.
+    - **Topic-** 12 Airpot XL Coffee Makers
+    - **First Name-** Tom
+    - **Last Name-** Smith
+    - **Job Title-** Cafeteria Manager
+    - **Business Phone-** 701 555-8698
+    - **Email-** `Tom@tomsbikeski.com`
+    - **Company-** Tom's Bike and Ski
+    - **Address-** 1987 43rd St N. Seattle, WA 98728
 
-Exercise 1 – Manage Customers
------------------------------
+4. Select **Save and Close** to save the lead record.
 
-### Task 1 – Creating Leads
+## Qualify and disqualify leads
 
-In this task, you will create three leads, one without company information and
-two with company information.
+Now that Tom Smith's lead record has been entered in Dynamics 365, you want to start the lead qualification process to determine the potential for business. You'll first reach out to Tom via a phone call.
 
-1.  Go to your **Dynamics 365 Sales Hub** application. Ensure you are in the **Sales** area, using the bottom left dropdown menu. 
+### Add activities to records
 
-2.  Navigate to the left **Site Navigation** menu and explore the options available.
+1. Find and open the lead record for Tom Smith that you created earlier.
+2. In the **Timeline** pane, select the plus button (**+**), and then, on the menu that appears, select **Phone Call**.
+3. Enter the following values for the new phone call:
+    - **Subject-** Initial qualification call.
+    - **Description**- Called Tom to discuss the size of their office and amount of coffee makers they might need.
+4. Select **Save and Close**.
 
-3.  In the left hand Site Navigation, under the **Sales** group, select **Leads**.
+### Update the Qualify phase and disqualify the lead
 
-4.  Click **+ New**.
+While you were on the phone with Tom Smith, you learned that they need to involve a few more decisionmakers in their decision: their Office Manager and Budget Administrator. He indicated that the expense is not in the budget for this quarter, and they don't intend to upgrade their coffee machines now. They want to revisit in the next fiscal period.
 
-5.  Enter **[my prefix] Lead Without Company** for **Topic**, **Jane** for **First Name**,
-    **Doe** for **Last Name**, and click **Save**.
+You now want to make a note of this information in Dynamics 365.
 
-6.  Click **+ New** again.
+1. Open the lead record for Tom Smith, and then, in the **Lead to Opportunity Sales Process** business process flow (BPF), select the **Qualify** phase.
+2. In the dialog box that appears, set the **Purchase Timeframe** column to *This Year*.
+3. Set the **Purchase Process** column to *Committee*.
+4. Because Tom indicated that the committee isn't currently interested in moving forward, on the command bar, select **Disqualify** to disqualify the lead. Then, on the menu that appears, select **No Longer Interested**.
 
-7.  Enter **[my prefix] Lead with Company** for **Topic**, **Jon** for **First Name, Doe**
-    for **Last Name**, **Doe Inc.** for **Company**, and click **Save**.
+### Reopen the lead and capture the phone call activity
 
-8.  Click **+ New** one more time.
+Several weeks have passed since you last spoke with Tom Smith about adding products to their stores. At the time, Tom mentioned that the committee that's in charge of the decision had decided not to move forward. But today Tom calls you and says that the committee might be interested in moving forward after all. Tom thinks that it would be helpful if you met the committee in person to introduce yourself and your organization.
 
-9.  Enter **[my prefix] Another Lead** for **Topic**, **Jack** for **First Name**, **Smith** for
-    **Last Name,** **Test Inc**. for **Company**, and click **Save**.
+1. If necessary, in the site map, go back to **Sales** \> **Leads**.
+2. Change the view to **Closed Leads**.
+3. Open the closed lead for Tom Smith.
+4. On the command bar, select **Reactivate Lead**.
+5. After the lead is reactivated, in the **Timeline** pane, select the plus button (**+**), and then, on the menu that appears, select **Phone Call**.
+6. Enter the following values for the new phone call:
 
-Exercise 2 – Lead Qualifications
---------------------------------
+    - **Subject-** Change of Situation
+    - **Direction-** Incoming
+    - **Description-** Tom reached out to let me know that the Decision-Making Committee is interested in looking at expanding our product line again.
 
-In this exercise, you will qualify/disqualify leads and see what records will be
-created when a lead goes through the qualification process.
+7. Select **Save and Close**.
+9. In the **Timeline** pane, select the plus button (**+**) again, and then, on the menu that appears, select **Appointment**.
+10. Enter the following values for the new appointment:
 
-### Task 1 – Qualify Lead Without Company Information 
+    - **Required Attendees-** Tom Smith
+    - **Subject-** Introduction Meeting
+    - **Location-** Their Office
+    - **Start Time** Tomorrow at 10:00 AM
+    - **End Time-** Tomorrow at 11:00 AM
+    - **Description-** Initial introduction meeting with Committee.
 
-1.  Go to your **Sales Hub** application.
+11. Select **Save and Close**.
 
-2.  Select **Leads**.
+### Close the meeting and qualify the lead
 
-3.  Locate **Lead Without Company** and select it.
+You've met with the committee, and the members have indicated that they're interested in moving forward with the expansion of the product line.
 
-4.  Click **Qualify** from the top menu.
+1. In the **Timeline** pane, find and select the **Introduction Meeting** appointment.
+2. Select the check mark, to **Close Activity**.
+3. Make sure that the state is updated to **Completed**, and then select **Close**.
+4. On the command bar, select **Qualify** to qualify the lead. A new opportunity record is created and opened.
+5. Make sure that the following values are already entered for the opportunity:
 
-5.  The lead will be **Qualified**. Select **Opportunities** from the left menu to see all qualified leads. Click on the lead you just qualified. 
+    - **Contact-** Tom Smith
+    - **Account-** Tom's Bike and Ski
 
-6.  Locate the **Contact** field. You find that **Jane Doe** is now a
-    **Contact** record.
-
-7.  Locate the **Account** field. The field will be empty.
-
-8. Click **Save**.
-
-
-### Task 2 – Qualify Lead with Company
-
-1.  Go to your **Sales Hub** application.
-
-2.  Select **Leads**.
-
-3.  Locate **Lead with Company** and open it.
-
-4.  Click **Qualify** from the top menu.
-
-5.  The lead will be **Qualified**, and you will be taken to a new Opportunity
-    record created from the qualified **Lead**.
-
-6.  Locate the **Contact** field. You find that **Jon Doe** is now a **Contact**
-    record.
-
-7.  Locate the **Account** field. You will find that **Doe Inc.** is now an
-    **Account** record.
-
-
-### Task 3 – Disqualify Lead
-
-1.  Go to your **Sales Hub** application.
-
-2.  Select **Leads**.
-
-3.  Locate **Another Lead** and open it.
-
-4.  Click **Disqualify** and select **No Longer Interested**.
-
-5.  The Lead will be **Disqualified**, the status will change to No Longer
-    Interested, and the record will become **Read-only**.
-
-
-### Task 4 – Reactivate Lead
-
-1.  Go to your **Sales Hub** application.
-
-2.  In the Site Navigation, under the **Sales** group, select **Leads**.
-
-3.  The Lead you disqualified is no longer in the **My Open Leads** view. Change
-    the View to **Closed Leads**.
-
-4.  Locate **Another Lead** and open it. (Ensure the lead has your prefix.)
-
+6. In the **Lead to Opportunity Sales Process** BPF, select the **Qualify** phase. You're taken to the original lead record. The record is now read-only.
+7. In the BPF, select the **Develop** phase to return to the opportunity record.
 5.  Click **Reactivate Lead**.
 
 6.  The Lead will be reactivated, the status will change back to New, and the record
