@@ -129,7 +129,12 @@ You realize that you are able to offer a 10 percent discount as part of a new cu
 
 Great news - Tom Smith would like to close the deal and has accepted the pricing with the ten percent discount. Let's apply the discount, close the opportunity, and create a quote.
 
-1. 
+1. Navigate to the **Products** tab.
+2. Under **Detail amount**, enter **10** in the Discount (%) field. This will apply a 10 percent discount to the prodcuts listed on the opportunity.
+3. The estimated revenue will update to reflect the discount.
+4. Select **Close as won** from the top navigation bar.
+5. Select **OK** in the dialog box.
+6. Congratulations! You've closed your first opportunity. The record becomes read-only and you will see the close as the most recent activity in the timeline.
 
 
 
