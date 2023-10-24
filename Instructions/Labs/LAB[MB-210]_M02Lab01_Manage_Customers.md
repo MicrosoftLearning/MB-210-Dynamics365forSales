@@ -9,7 +9,7 @@ Module 2: Manage leads and opportunities with Dynamics 365 Sales
 
 ## Practice Lab 2.1 – Manage customers
 
-As you review the imported leads, you notice that one lead is missing. Apparently, Tom Smith's card wasn't added to the leads file that you imported. You remember talking with Tom at the trade show, and it seemed like a successful opportunity. You eventually find Tom's card and now have to manually enter the lead in Dynamics 365.
+As you review the imported leads, you notice that one lead is missing. Apparently, Tom Smith's card wasn't added to the leads file that you imported. You remember talking with Tom at the trade show. Tom is the President of a bike and ski company, and he is interested in adding new coffee makers in his 6 regional offices. You eventually find Tom's card and now have to manually enter the lead in Dynamics 365.
 
 1. If necessary, in the site map, go back to **Sales** > **Leads**.
 2. On the command bar, select **New**.
@@ -18,11 +18,10 @@ As you review the imported leads, you notice that one lead is missing. Apparentl
     - **Topic-** 12 Airpot XL Coffee Makers
     - **First Name-** Tom
     - **Last Name-** Smith
-    - **Job Title-** Cafeteria Manager
+    - **Job Title-** President
     - **Business Phone-** 701 555-8698
     - **Email-** `Tom@tomsbikeski.com`
     - **Company-** Tom's Bike and Ski
-    - **Address-** 1987 43rd St N. Seattle, WA 98728
 
 4. Select **Save and Close** to save the lead record.
 
@@ -52,9 +51,9 @@ You now want to make a note of this information in Dynamics 365.
 
 ### Reopen the lead and capture the phone call activity
 
-Several weeks have passed since you last spoke with Tom Smith about adding products to their stores. At the time, Tom mentioned that the committee that's in charge of the decision had decided not to move forward. But today Tom calls you and says that the committee might be interested in moving forward after all. Tom thinks that it would be helpful if you met the committee in person to introduce yourself and your organization.
+Several weeks have passed since you last spoke with Tom Smith about adding products to their stores. At the time, Tom mentioned that the committee in charge of the decision had decided not to move forward. But today Tom calls you and says that the committee might be interested in moving forward after all. Tom thinks that it would be helpful if you met the committee in person to introduce yourself and your organization.
 
-1. If necessary, in the site map, go back to **Sales** \> **Leads**.
+1. If necessary, in the site map, go back to **Sales** > **Leads**.
 2. Change the view to **Closed Leads**.
 3. Open the closed lead for Tom Smith.
 4. On the command bar, select **Reactivate Lead**.
@@ -63,11 +62,13 @@ Several weeks have passed since you last spoke with Tom Smith about adding produ
 
     - **Subject-** Change of Situation
     - **Direction-** Incoming
-    - **Description-** Tom reached out to let me know that the Decision-Making Committee is interested in looking at expanding our product line again.
+    - **Description-** Tom reached out to let me know that the Decision-Making Committee is interested again. 
 
 7. Select **Save and Close**.
-9. In the **Timeline** pane, select the plus button (**+**) again, and then, on the menu that appears, select **Appointment**.
-10. Enter the following values for the new appointment:
+
+8. In the **Timeline** pane, select the plus button (**+**) again, and then, on the menu that appears, select **Meeting**.
+9. 
+10. Enter the following values for the new meeting:
 
     - **Required Attendees-** Tom Smith
     - **Subject-** Introduction Meeting
@@ -76,15 +77,14 @@ Several weeks have passed since you last spoke with Tom Smith about adding produ
     - **End Time-** Tomorrow at 11:00 AM
     - **Description-** Initial introduction meeting with Committee.
 
-11. Select **Save and Close**.
-
+9. Select **Save and Close**.
 ### Close the meeting and qualify the lead
 
 You've met with the committee, and the members have indicated that they're interested in moving forward with the expansion of the product line.
 
-1. In the **Timeline** pane, find and select the **Introduction Meeting** appointment.
+1. In the **Timeline** pane, find and select the **Introduction Meeting**.
 2. Select the check mark, to **Close Activity**.
-3. Make sure that the state is updated to **Completed**, and then select **Close**.
+3. Make sure that the state is updated to **Completed**, and then select **Close Meeting**.
 4. On the command bar, select **Qualify** to qualify the lead. A new opportunity record is created and opened.
 5. Make sure that the following values are already entered for the opportunity:
 
@@ -92,7 +92,9 @@ You've met with the committee, and the members have indicated that they're inter
     - **Account-** Tom's Bike and Ski
 
 6. In the **Lead to Opportunity Sales Process** BPF, select the **Qualify** phase. You're taken to the original lead record. The record is now read-only.
-7. In the BPF, select the **Develop** phase to return to the opportunity record.
+
+8. In the BPF, select the **Develop** phase to return to the opportunity record.
+
 5.  Click **Reactivate Lead**.
 
 6.  The Lead will be reactivated, the status will change back to New, and the record
