@@ -6,7 +6,7 @@ In this Module 0 lab, you will provision a Dynamics 365 Sales Trial. You will ac
 Exercise 1 - Access the Dynamics 365 application
 ------------------------------------------------
 
-### Task 1 – Log into the Power Platform admin center
+### Task 1 – Procure a trial
 
 1. In a new browser tab, go to `dynamics.microsoft.com/sales`
 
