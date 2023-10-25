@@ -1,4 +1,4 @@
-## Demo 2 - Work with the Opportunity
+## Demo 2 - Work with Opportunites
 
 Now, it is time to fill out key details about the opportunity. During the meeting, you and Tom discussed that they would like to close the deal 3 weeks from today. However, they are still unsure about pricing. Let's see if we can use AI by Microsoft Copilot to help us close the deal.
 
