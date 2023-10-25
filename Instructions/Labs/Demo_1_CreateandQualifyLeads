@@ -1,48 +1,38 @@
----
-lab:
-    title: 'Lab 2.1: Manage Customers'
-    module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
----
 
-Module 2: Manage leads and opportunities with Dynamics 365 Sales
-==================================
+## Demo 1 - Create and qualify leads
 
-## Practice Lab 2.1 – Manage customers
+You recently met Tom Smith, the President of a bike and ski company, at a trade show. He is interested in adding new coffee makers in his 6 regional offices. You eventually find Tom's business card and now have to manually enter the lead in Dynamics 365.
 
-As you review the imported leads, you notice that one lead is missing. Apparently, Tom Smith's card wasn't added to the leads file that you imported. You remember talking with Tom at the trade show. Tom is the President of a bike and ski company, and he is interested in adding new coffee makers in his 6 regional offices. You eventually find Tom's card and now have to manually enter the lead in Dynamics 365.
+### Create a lead
 
-1. If necessary, in the site map, go back to **Sales** > **Leads**.
+1. In the Site Map, navigate to **Sales** > **Leads**.
 2. On the command bar, select **New**.
 3. Enter the following values for the new lead:
 
-    - **Topic-** 12 Airpot XL Coffee Makers
-    - **First Name-** Tom
-    - **Last Name-** Smith
-    - **Job Title-** President
-    - **Business Phone-** 701 555-8698
-    - **Email-** `Tom@tomsbikeski.com`
-    - **Company-** Tom's Bike and Ski
+    - **Topic:** 12 Airpot XL Coffee Makers
+    - **First Name:** Tom
+    - **Last Name:** Smith
+    - **Job Title:** President
+    - **Business Phone:** 701 555-8698
+    - **Email:** `Tom@tomsbikeski.com`
+    - **Company:** Tom's Bike and Ski
 
 4. Select **Save and Close** to save the lead record.
 
-## Qualify and disqualify leads
+### Add an activity to the record
 
 Now that Tom Smith's lead record has been entered in Dynamics 365, you want to start the lead qualification process to determine the potential for business. You'll first reach out to Tom via a phone call.
 
-### Add activities to records
-
-1. Find and open the lead record for Tom Smith that you created earlier.
+1. Find and open the lead record for Tom Smith.
 2. In the **Timeline** pane, select the plus button (**+**), and then, on the menu that appears, select **Phone Call**.
 3. Enter the following values for the new phone call:
-    - **Subject-** Initial qualification call.
-    - **Description**- Called Tom to discuss the size of their office and amount of coffee makers they might need.
+    - **Subject:** Initial qualification call.
+    - **Description:** Called Tom to discuss the size of their office and amount of coffee makers they might need.
 4. Select **Save and Close**.
 
 ### Update the Qualify phase and disqualify the lead
 
-While you were on the phone with Tom Smith, you learned that they need to involve a few more decisionmakers in their decision: their Office Manager and Budget Administrator. He indicated that the expense is not in the budget for this quarter, and they don't intend to upgrade their coffee machines now. They want to revisit in the next fiscal period.
-
-You now want to make a note of this information in Dynamics 365.
+While you were on the phone with Tom Smith, you learned that they need to involve a few more decisionmakers in their decision: their Office Manager and Budget Administrator. He indicated that the expense is not in the budget for this quarter, and they don't intend to upgrade their coffee machines now. They want to revisit in the next fiscal period. You now want to make a note of this information in Dynamics 365.
 
 1. Open the lead record for Tom Smith, and then, in the **Lead to Opportunity Sales Process** business process flow (BPF), select the **Qualify** phase.
 2. In the dialog box that appears, set the **Purchase Timeframe** column to *This Year*.
@@ -60,22 +50,22 @@ Several weeks have passed since you last spoke with Tom Smith about adding produ
 5. After the lead is reactivated, in the **Timeline** pane, select the plus button (**+**), and then, on the menu that appears, select **Phone Call**.
 6. Enter the following values for the new phone call:
 
-    - **Subject-** Change of Situation
-    - **Direction-** Incoming
-    - **Description-** Tom reached out to let me know that the Decision-Making Committee is interested again. 
+    - **Subject:** Change of Situation
+    - **Direction:** Incoming
+    - **Description:** Tom reached out to let me know that the Decision-Making Committee is interested again. 
 
 7. Select **Save and Close**.
 
 8. In the **Timeline** pane, select the plus button (**+**) again, and then, on the menu that appears, select **Meeting**.
-9. 
-10. Enter the following values for the new meeting:
 
-    - **Required Attendees-** Tom Smith
-    - **Subject-** Introduction Meeting
-    - **Location-** Their Office
-    - **Start Time** Tomorrow at 10:00 AM
-    - **End Time-** Tomorrow at 11:00 AM
-    - **Description-** Initial introduction meeting with Committee. They discussed that they would like to close 3 weeks from today but are still unsure about the price.
+9. Enter the following values for the new meeting:
+
+    - **Required Attendees:** Tom Smith
+    - **Subject:** Introduction Meeting
+    - **Location:** Their Office
+    - **Start Time:** Tomorrow at 10:00 AM
+    - **End Time:** Tomorrow at 11:00 AM
+    - **Description:** Initial introduction meeting with Committee. They discussed that they would like to close 3 weeks from today but are still unsure about the price.
 
 9. Select **Save and Close**.
    
@@ -89,12 +79,11 @@ You've met with the committee, and the members have indicated that they're inter
 4. On the command bar, select **Qualify** to qualify the lead. A new opportunity record is created and opened.
 5. Make sure that the following values are already entered for the opportunity:
 
-    - **Contact-** Tom Smith
-    - **Account-** Tom's Bike and Ski
+    - **Contact:** Tom Smith
+    - **Account:** Tom's Bike and Ski
 
 6. In the **Lead to Opportunity Sales Process** BPF, select the **Qualify** phase. You're taken to the original lead record. The record is now read-only.
-
-8. In the BPF, select the **Develop** phase to return to the opportunity record.
+7. In the BPF, select the **Develop** phase to return to the opportunity record.
 
 ### Work with the Opportunity
 
@@ -108,6 +97,8 @@ Now, it is time to fill out key details about the opportunity. During the meetin
 6. Select **Save to opportunity.**
 7. Expand the carrot next to the **Owner** field at the top of the screen. You will notice that Est. revenue has been filled in with the total price of 6 Airpot XL coffee machines.
 8. Fill in **Estimated close date** as 3 weeks from today.
+
+### Draft and send an email using Copilot
 
 You realize that you are able to offer a 10 percent discount as part of a new customer promotion. Let's use Copilot to send an email to Tom Smith letting him know the good news.
 
