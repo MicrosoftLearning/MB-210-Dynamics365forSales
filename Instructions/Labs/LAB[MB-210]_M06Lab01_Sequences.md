@@ -2,21 +2,22 @@
 lab:
     title: 'Lab 6.1: Build a sequence'
     module: 'Module 6: Get started with Sales Insights'
----
 
+---
 
 Module 6: Get started with Sales Insights
 ==============================
 
-## Practice Lab 6.1: Build a sequence 
+## Practice Lab 6.1: Manage leads and opportunities with Sales Insights 
 
 Scenario
 --------
 
-Sellers suggest that sales could be improved if organizational "best practices" were easier to follow. The sales managers have determined the ideal sequence of sales events for sellers, and they want to enforce best practices by setting up the set of consecutive activities for sellers. To make these practices easily available to sellers to follow during the course of their day, you suggest creating a sequence.
+One of the sellers on your team has expressed difficulty making contact with a lead. You want to help coach them on effective ways to improve their relationship with the customer and nurture the deal to a successful close. You suggest three ways to help the seller:
 
-In this lab, we will create a simple sales sequence for your sellers to follow.
-
+1) Create a sequence and add it to the seller's lead record to help the seller follow clear steps
+2) Monitor key performance metrics like relationship health score and predictive lead scoring
+3) 
 
 ### Task 1: Create new sequence
 
