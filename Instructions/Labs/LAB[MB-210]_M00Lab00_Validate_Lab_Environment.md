@@ -1,18 +1,5 @@
----
-lab:
-    title: 'Lab 1.1: Validate lab environment'
-    module: 'Module 1: Configure Dynamics 365 Sales'
----
 
-
-Module 1: Configure Dynamics 365 Sales
-========================
-
-
-## Practice Lab 1.1 - Validate lab environment 
-
-Scenario
---------
+## Practice Lab 1 - Validate lab environment 
 
 World Wide Importers (WWI) is looking to formalize their sales process to
 increase revenue and give leadership, the stronger forecasting abilities. You are
@@ -22,10 +9,7 @@ sample data.
 
 In this Module 0 lab, you will provision a Dynamics 365 Customer Service Trial. You will access your individual credentials, provision the trial, and open the Dynamics 365 model-driven application that we will be using throughout the course.
 
-Exercise 1 - Access the Dynamics 365 application
-------------------------------------------------
-
-### Task 1 – Log into the Power Platform admin center
+## Exercise 1 - Access the Dynamics 365 application
 
 1. In a new browser tab, go to `dynamics.microsoft.com/sales`
 
