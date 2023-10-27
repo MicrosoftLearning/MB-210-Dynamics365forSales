@@ -1,19 +1,9 @@
----
-lab:
-    title: 'Lab 6.1: Build a sequence'
-    module: 'Module 6: Get started with Sales Insights'
-
----
-
-Module 6: Get started with Sales Insights
-==============================
-
-## Practice Lab 6.1: Manage leads and opportunities with Sales Insights 
+## Practice Lab 3: Manage leads and opportunities with Sales Insights 
 
 Scenario
 --------
 
-### Task 1: Work with the opportunity pipeline view 
+### Exercise 3.1: Work with the opportunity pipeline view 
 
 Your manager indicates concern about some of your team's open opportunities having less than desirable predictive opportunity scores. You want to take a look at all the open opportunities and see a high-level view of their predictive scoring.
 
@@ -47,7 +37,7 @@ Your manager indicates concern about some of your team's open opportunities havi
 
 NEW LAB
 
-## Task 1: Create a sequence for a low-grade lead
+## Exercise 3.2: Create a sequence for a low-grade lead
 
 One of the sellers on your team has expressed difficulty making contact with a lead. You want to help coach them on effective ways to improve their relationship with the customer and nurture the deal to a successful close. You suggest three ways to help the seller:
 
@@ -96,7 +86,7 @@ One of the sellers on your team has expressed difficulty making contact with a l
 
 10. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
   
-### Task 2: Create new sequence
+### Exercise 3.3: Create new sequence
 
 Your sales teammate expresses that when he's spoken with Josiah, Josiah has expressed that they prefer phone calls and meetings to emails. You decide that the existing sequence, which relies heavily on email communication, doesn't work for some customers. You decide to build a new sequence that focuses more on in-person selling styles. Instead of creating a new sequence from blank, you'll use the existing lead nurturing sequence, create a copy, and make edits.
 
@@ -116,7 +106,7 @@ Your sales teammate expresses that when he's spoken with Josiah, Josiah has expr
 
 7. Select **Save and edit.**
 
-### Task 3: Choose the first activity for seller to take
+### Task 3.4: Choose the first activity for seller to take
 
 Let's take a look at the sequence and replace steps where sellers sent emails with calls or meetings.
 
