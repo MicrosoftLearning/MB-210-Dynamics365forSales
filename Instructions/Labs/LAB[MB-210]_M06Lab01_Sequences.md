@@ -15,7 +15,7 @@ Your manager indicates concern about some of your team's open opportunities havi
 
 4. The opportunities most at risk are represented by the biggest orange circles closest to the axis intersection. Hover over the big orange circle at the bottom of the pipeline chart. The record name will appear and should read **2 Cafe Duo Espresso Machines for Fabrikam.**
 
-5. The opportunity record will open in a pane on the right side of the screen. Here, we can easily view details about the opportunity, including the Contact, Purchase Process, Purchase Timeframe, and its associated Activities.
+5. Click on the circle. The opportunity record will open in a pane on the right side of the screen. Here, we can easily view details about the opportunity, including the Contact, Purchase Process, Purchase Timeframe, and its associated Activities.
 
 6. This pane can be customized to best fit your working style. Select the **Customize layout** button (looks like a magic wand). Toggle the radio buttons to customize your layout. When done, make sure **Compact header** is *off* and **Extended width** is *on.*
 
@@ -23,7 +23,7 @@ Your manager indicates concern about some of your team's open opportunities havi
 
 8. You just got a call that Fabrikam needs another 2 weeks to come to a decision. Let's track the incoming call as an activity, and then update the estimated close date.
 
-9. Find the Timeline in the opportunity pane and click the plus sign to add an activity.
+9. Find the Timeline in the opportunity pane and click the plus sign to add an activity. Select **Phone call** as the Activity type.
 
 10. For subject, enter "Needs to delay close date."
 
@@ -35,11 +35,9 @@ Your manager indicates concern about some of your team's open opportunities havi
 
 14. The opportunity pipeline view will update to reflect the new opportunity close date (the circle representing 2 Cafe Duo Machines for Fabrikam will move to the right).
 
-NEW LAB
-
 ## Exercise 3.2: Create a sequence for a low-grade lead
 
-One of the sellers on your team has expressed difficulty making contact with a lead. You want to help coach them on effective ways to improve their relationship with the customer and nurture the deal to a successful close. You suggest three ways to help the seller:
+One of the sellers on your team has expressed difficulty making contact with a lead. You want to help coach them on effective ways to improve their relationship with the customer and nurture the deal to a successful close. You suggest two ways to help the seller:
 
 1) Create a sequence and add it to the seller's lead record to help the seller follow clear steps
 2) Monitor key performance metrics like relationship health score and predictive lead scoring
@@ -54,21 +52,21 @@ One of the sellers on your team has expressed difficulty making contact with a l
 
 4. Select the **Sort** button and select **Score.** Then select **Lowest on top.**
 
-5. On each record in the work list, show the following:
+5. On each record in the work list, take a look at the following:
     - Blue dot to denote it as unopened
     - The number of the lead score and corresponding color to represent its grade (green, yellow or orange)
-    - The task beneath the Lead name with the option to call, mark as complete, cancel activity, or assign it to someone else
+    - The task beneath the Lead name with the option to call, mark as complete, or assign it to someone else
   
-6. Select the lead for **Josiah Love.** Show how once the record in the work list is opened, it disappears from the view because it is no longer unopened.
+6. Select the lead for **Josiah Love.** Once the record in the work list is opened, it disappears from the view because it is no longer unopened.
 
-7. On the Josiah Love lead record in the Sales accelerator workspace, show the following:
+7. On the Josiah Love lead record in the Sales accelerator workspace, take a look at the following:
    - The Up Next widget, showing the next task and its due date.
    - The timeline.
    - The lead score. Hover over the factors below the lead score grade. Show the insights behind the lead scores.
    - Who knows whom. Switch to graph view.
    - Relationship health.
    
-8. Switch to the **Relationship analytics** tab. Show the following:
+8. Switch to the **Relationship analytics** tab. Take a look at the following:
    - Summary, with key insights computed from previous years.
    - Relationship health.
    - Client's contacts and your colleagues.
@@ -84,7 +82,7 @@ One of the sellers on your team has expressed difficulty making contact with a l
     - Change Estimated Budget to **40,000.**
     - Change Purchase Process to **Individual.**
 
-10. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
+10. **Save** the record. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
   
 ### Exercise 3.3: Create new sequence
 
@@ -98,7 +96,7 @@ Your sales teammate expresses that when he's spoken with Josiah, Josiah has expr
 
 4. If necessary, select **Enable** on the notification to enable workflow for sequences to work properly.
 
-5. If necessary, select **Setup workspace**, then select **Quick setup**. Select **Publish** on the flyout pane.
+5. If necessary, select **Setup workspace**, then select **Quick setup**. Select **Publish** on the flyout pane. Then select the **Sequences** tab again.
 
 5. Find the **New lead nurturing** sequence. This is the sequence currenly in use for lead records. Select the sequence and select **Create a copy.**
 
@@ -106,19 +104,19 @@ Your sales teammate expresses that when he's spoken with Josiah, Josiah has expr
 
 7. Select **Save and edit.**
 
-### Task 3.4: Choose the first activity for seller to take
+### Task 3.4: Configure a sequence
 
 Let's take a look at the sequence and replace steps where sellers sent emails with calls or meetings.
 
 1. Delete the first email step under **Sequence starts here.**
 
-2. Select the plus sign to add a new step where the email step used to be. Select **Send a text message.**
+2. Select the plus sign to add a new step where the email step used to be. Select **Make a phone call.**
 
-3. Under Title, enter "Set up introduction call." Under Description, enter "Ask the customer for a good time that day to call."
+3. Under Title, enter "Introduction call." Under Description, enter "Introduce seller and organization."
 
-4. Under that step, select the plus sign and add a new Phone call step.
+4. Under that step, select the plus sign and add a new Email step.
 
-5. Under Title, enter "Introduction call." Under "Description", enter "Introduce seller and product; assess customer needs."
+5. Under Title, enter "Thank you email." Under "Description", enter "Thank customer for their time and provide your contact information in writing."
 
 6. Keep the Set wait time step.
 
@@ -130,11 +128,11 @@ Let's take a look at the sequence and replace steps where sellers sent emails wi
 
 10. **Save** the sequence.
 
-11. **Activate** the sequence. (Check **I understand** if necessary.)
+11. **Activate** the sequence. (Check **I understand** and then **Activiate** again if necessary.)
 
 ## Task 4: Connect the sequence to records
 
-1. Change the area using the bottom left dropdown menu, select the **Sales** area. 
+1. Change the area using the bottom left dropdown menu. Select the **Sales** area. 
 
 2. Select **Leads** from the site navigation menu.
 
@@ -148,10 +146,10 @@ Let's take a look at the sequence and replace steps where sellers sent emails wi
 
 7. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record. Now, sellers who have access to the lead record can see the activities connected with it.
 
-8. Refresh the Up next widget. It should now read **Set up introduction call.**
+8. Under Josiah's name, select the carrot next to **Lead.** Switch to **Sales Insights** to view Josiah's record using the Sales Insights form. Refresh the Up next widget. It should now read **Set up introduction call.**
 
 9. Expand the step and mark as complete.
 
-10. The next step, "Follow-up call," will appear in the Up next widget. There is a countdown to the time you need to complete.
+10. The next sequence will appear in the Up next widget. There is a countdown to the time you need to complete.
 
 11. Congratulations! You have made a new sequence and connected it to a record.
