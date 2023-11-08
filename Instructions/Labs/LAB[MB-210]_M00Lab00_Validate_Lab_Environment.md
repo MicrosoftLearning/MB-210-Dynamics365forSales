@@ -26,3 +26,17 @@ In this Module 0 lab, you will provision a Dynamics 365 Customer Service Trial. 
 1. Select **Sales trial** in the app selector on the title bar and open the **Sales Hub** app.
 
 1. Spend a few minutes exploring the application, select **Next** on the welcome prompt to learn the basics.
+
+## Exercise 2 - Enable Copilot for Dynamics 365 Sales
+
+1. In the bottom left corner, select **Change area.** Switch to the **App settings** area.
+
+1. Under General Settings, select **Sales Copilot (preview).**
+
+1. Select **Manage apps.** In the pane, check both boxes for Sales Hub.
+
+1. Select **Confirm.**
+
+1. Navigate to **Record catch up** under Copilot settings. Toggle the radio button to **Turn audit on.**
+
+1. Select **Save.**
