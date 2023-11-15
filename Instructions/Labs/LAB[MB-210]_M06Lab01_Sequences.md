@@ -1,8 +1,10 @@
 ## Practice Lab 3: Manage leads and opportunities with Sales Insights 
 
+Your manager indicates concern about some of your team's open opportunities having less than desirable predictive opportunity scores. You want to take a look at all the open opportunities and see a high-level view of their predictive scoring.
+
 ## Exercise 3.1: Work with the opportunity pipeline view 
 
-Your manager indicates concern about some of your team's open opportunities having less than desirable predictive opportunity scores. You want to take a look at all the open opportunities and see a high-level view of their predictive scoring.
+The opportunity pipeline view is a valuable chart that sits on the default opportunities dashboard in Dynamics 365 Sales. Let's use the opportunity pipeline view to identify the opportunities that need the most help.
 
 1. Navigate to **Opportunities.**
 
