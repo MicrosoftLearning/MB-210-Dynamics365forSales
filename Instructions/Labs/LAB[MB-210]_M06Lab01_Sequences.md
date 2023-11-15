@@ -57,13 +57,12 @@ One of the sellers on your team has expressed difficulty making contact with a l
     - The number of the lead score and corresponding color to represent its grade (green, yellow or orange)
     - The task beneath the Lead name with the option to call, mark as complete, or assign it to someone else
   
-6. Select the lead for **Josiah Love.** Once the record in the work list is opened, it disappears from the view because it is no longer unopened.
+6. Reset your filters. Use the search bar to search for one of the following leads: **Rachel Michael**, **Gerald Stephens**, or **Lilly Pyles.** Once the record in the work list is opened, it disappears from the view because it is no longer unopened.
 
-7. On the Josiah Love lead record in the Sales accelerator workspace, take a look at the following:
+7. Under the Lead name, switch from the **Sales trial** form to the **Sales Insights** form. On the lead record in the Sales accelerator workspace, take a look at the following:
    - The Up Next widget, showing the next task and its due date.
    - The timeline.
    - The lead score. Hover over the factors below the lead score grade. Show the insights behind the lead scores.
-   - Who knows whom. Switch to graph view.
    - Relationship health.
    
 8. Switch to the **Relationship analytics** tab. Take a look at the following:
@@ -86,7 +85,7 @@ One of the sellers on your team has expressed difficulty making contact with a l
   
 ### Exercise 3.3: Create new sequence
 
-Your sales teammate expresses that when he's spoken with Josiah, Josiah has expressed that they prefer phone calls and meetings to emails. You decide that the existing sequence, which relies heavily on email communication, doesn't work for some customers. You decide to build a new sequence that focuses more on in-person selling styles. Instead of creating a new sequence from blank, you'll use the existing lead nurturing sequence, create a copy, and make edits.
+Your sales teammate expresses that when he's spoken with their lead, the lead expressed that they prefer phone calls and meetings to emails. You decide that the existing sequence, which relies heavily on email communication, doesn't work for some customers. You decide to build a new sequence that focuses more on in-person selling styles. Instead of creating a new sequence from blank, you'll use the existing lead nurturing sequence, create a copy, and make edits.
 
 1. Change the area to **Sales Insights settings** using the bottom left drop-down menu icon.
 
@@ -136,7 +135,7 @@ Let's take a look at the sequence and replace steps where sellers sent emails wi
 
 2. Select **Leads** from the site navigation menu.
 
-3. Use the search bar to search for **Josiah Love.** You can start by typing in his first or last name.
+3. Use the search bar to search for the lead you opened in the previous task. You can start by typing in their first or last name.
 
 4. Open the record.
 
@@ -146,7 +145,7 @@ Let's take a look at the sequence and replace steps where sellers sent emails wi
 
 7. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record. Now, sellers who have access to the lead record can see the activities connected with it.
 
-8. Under Josiah's name, select the carrot next to **Lead.** Switch to **Sales Insights** to view Josiah's record using the Sales Insights form. Refresh the Up next widget. It should now read **Set up introduction call.**
+8. Under the lead's name, select the carrot next to **Lead.** Switch to **Sales Insights** to view the record using the Sales Insights form. Refresh the Up next widget. It should now read **Set up introduction call.**
 
 9. Expand the step and mark as complete.
 
