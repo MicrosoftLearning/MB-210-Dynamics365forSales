@@ -3,7 +3,7 @@
 Scenario
 --------
 
-### Exercise 3.1: Work with the opportunity pipeline view 
+## Exercise 3.1: Work with the opportunity pipeline view 
 
 Your manager indicates concern about some of your team's open opportunities having less than desirable predictive opportunity scores. You want to take a look at all the open opportunities and see a high-level view of their predictive scoring.
 
@@ -42,7 +42,7 @@ One of the sellers on your team has expressed difficulty making contact with a l
 1) Create a sequence and add it to the seller's lead record to help the seller follow clear steps
 2) Monitor key performance metrics like relationship health score and predictive lead scoring
 
-### Task 1: Identify low-grade leads in the Sales Accelerator 
+Let's take action on these two steps to help close the lead.
 
 1. Navigate to **Sales accelerator** in the left menu. This is the Sales accelerator workspace.
 
@@ -83,7 +83,7 @@ One of the sellers on your team has expressed difficulty making contact with a l
 
 10. **Save** the record. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
   
-### Exercise 3.3: Create new sequence
+## Exercise 3.3: Create new sequence
 
 Your sales teammate expresses that when he's spoken with their lead, the lead expressed that they prefer phone calls and meetings to emails. You decide that the existing sequence, which relies heavily on email communication, doesn't work for some customers. You decide to build a new sequence that focuses more on in-person selling styles. Instead of creating a new sequence from blank, you'll use the existing lead nurturing sequence, create a copy, and make edits.
 
@@ -103,7 +103,7 @@ Your sales teammate expresses that when he's spoken with their lead, the lead ex
 
 7. Select **Save and edit.**
 
-### Task 3.4: Configure a sequence
+## Exercise 3.4: Configure a sequence
 
 Let's take a look at the sequence and replace steps where sellers sent emails with calls or meetings.
 
@@ -129,7 +129,7 @@ Let's take a look at the sequence and replace steps where sellers sent emails wi
 
 11. **Activate** the sequence. (Check **I understand** and then **Activiate** again if necessary.)
 
-## Task 4: Connect the sequence to records
+## Exercise 3.5: Connect the sequence to records
 
 1. Change the area using the bottom left dropdown menu. Select the **Sales** area. 
 
