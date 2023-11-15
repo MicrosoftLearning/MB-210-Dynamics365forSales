@@ -1,4 +1,4 @@
-## Practice Lab 2 – Manage customers
+## Practice Lab 2: Manage customers
 
 After a trade show, you imported new leads into your Dynamics 365 Sales instance. As you review the imported leads, you notice that one lead is missing. Apparently, Tom Smith's card wasn't added to the leads file that you imported. You remember talking with Tom at the trade show. Tom is the President of a bike and ski company, and he is interested in adding new coffee makers in his 6 regional offices. You eventually find Tom's card and now have to manually enter the lead in Dynamics 365.
 
