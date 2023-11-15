@@ -69,7 +69,7 @@ Several weeks have passed since you last spoke with Tom Smith about adding produ
 
 10. Select **Save and Close**.
    
-## Exercise 2.3: Close the meeting and qualify the lead
+## Exercise 2.4: Close the meeting and qualify the lead
 
 You've met with the committee, and the members have indicated that they're interested in moving forward with the expansion of the product line.
 
@@ -86,7 +86,7 @@ You've met with the committee, and the members have indicated that they're inter
 
 8. In the BPF, select the **Develop** phase to return to the opportunity record.
 
-## Exercise 2.4: Work with the Opportunity
+## Exercise 2.5: Work with the Opportunity
 
 Now, it is time to fill out key details about the opportunity. During the meeting, you and Tom discussed that they would like to close the deal 3 weeks from today. However, they are still unsure about pricing. Let's see if we can use AI by Microsoft Copilot to help us close the deal.
 
@@ -115,7 +115,7 @@ You realize that you are able to offer a 10 percent discount as part of a new cu
 12. Select **Send.**
 13. Take a look at the **Timeline** on the opportunity record. Your email will appear here.
 
-## Exercise 2.5: Close the opportunity as won
+## Exercise 2.6: Close the opportunity as won
 
 Great news - Tom Smith would like to close the deal and has accepted the pricing with the ten percent discount. Let's apply the discount, close the opportunity, and create a quote.
 
