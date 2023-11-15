@@ -1,7 +1,7 @@
 
 ## Practice Lab 1: Validate lab environment 
 
-In this first lab, you will provision a Dynamics 365 Sales trial. You will access your individual credentials, provision the trial, and open the Dynamics 365 model-driven application that we will be using throughout the course.
+In this first lab, you will provision a Dynamics 365 Sales trial. You will access your individual credentials, provision the trial, and enable Copilot in Dynamics 365 Sales.
 
 ## Exercise 1.1: Access the Dynamics 365 application
 
