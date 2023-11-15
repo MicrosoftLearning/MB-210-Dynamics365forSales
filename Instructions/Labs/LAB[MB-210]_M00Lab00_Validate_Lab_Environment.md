@@ -9,7 +9,7 @@ sample data.
 
 In this Module 0 lab, you will provision a Dynamics 365 Customer Service Trial. You will access your individual credentials, provision the trial, and open the Dynamics 365 model-driven application that we will be using throughout the course.
 
-## Exercise 1 - Access the Dynamics 365 application
+## Exercise 1.1: Access the Dynamics 365 application
 
 1. In a new browser tab, go to `dynamics.microsoft.com/sales`
 
@@ -27,7 +27,7 @@ In this Module 0 lab, you will provision a Dynamics 365 Customer Service Trial. 
 
 1. Spend a few minutes exploring the application, select **Next** on the welcome prompt to learn the basics.
 
-## Exercise 2 - Enable Copilot for Dynamics 365 Sales
+## Exercise 1.2: Enable Copilot for Dynamics 365 Sales
 
 1. In the bottom left corner, select **Change area.** Switch to the **App settings** area.
 
