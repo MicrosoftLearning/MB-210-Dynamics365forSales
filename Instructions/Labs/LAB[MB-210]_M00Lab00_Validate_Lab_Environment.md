@@ -1,5 +1,5 @@
 
-## Practice Lab 1 - Validate lab environment 
+## Practice Lab 1: Validate lab environment 
 
 World Wide Importers (WWI) is looking to formalize their sales process to
 increase revenue and give leadership, the stronger forecasting abilities. You are
@@ -7,7 +7,7 @@ a functional consultant configuring Dynamics 365 for Sales for World Wide
 Importers. In this lab, you will install the Sales application and install
 sample data.
 
-In this Module 0 lab, you will provision a Dynamics 365 Customer Service Trial. You will access your individual credentials, provision the trial, and open the Dynamics 365 model-driven application that we will be using throughout the course.
+In this first lab, you will provision a Dynamics 365 Sales trial. You will access your individual credentials, provision the trial, and open the Dynamics 365 model-driven application that we will be using throughout the course.
 
 ## Exercise 1.1: Access the Dynamics 365 application
 
