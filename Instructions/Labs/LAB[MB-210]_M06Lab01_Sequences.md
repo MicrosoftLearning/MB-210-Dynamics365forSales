@@ -1,8 +1,5 @@
 ## Practice Lab 3: Manage leads and opportunities with Sales Insights 
 
-Scenario
---------
-
 ## Exercise 3.1: Work with the opportunity pipeline view 
 
 Your manager indicates concern about some of your team's open opportunities having less than desirable predictive opportunity scores. You want to take a look at all the open opportunities and see a high-level view of their predictive scoring.
