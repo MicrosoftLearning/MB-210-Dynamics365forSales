@@ -105,7 +105,7 @@ You realize that you are able to offer a 10 percent discount as part of a new cu
 2. In the **Subject** pane, enter **Your interest in Airpot XLs**.
 3. The Copilot pane will open automatically on the right side of the screen. (If it doesn't open automatically, refresh your browser.) Select **Describe the email you want.**
 4. Describe the email you want to send in the text box. (Write something like: "Thank Tom for his time and let him know you can offer a 10 percent discount for new customers.")
-5. Click the arrow to submit your prompt.
+5. Click the arrow to submit your prompt. (**Note:** In the event that the Compose feature is down, type the following into the email instead: "Hi Tom. It was nice meeting you last week. We are able to offer you a 10 percent discount on your 12 Airpot XLs." Skip steps 6-11 below.)
 6. Take a look at the generated email. It looks pretty good, but since you and Tom have a nice rapport, let's change the email's tone to make it friendlier.
 7. Click the **Adjust draft** button (looks like 2 sliders) below the generated email.
 8. Adjust the tone to **Friendly.**
