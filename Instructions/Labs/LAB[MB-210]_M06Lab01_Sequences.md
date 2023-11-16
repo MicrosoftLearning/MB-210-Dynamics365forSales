@@ -58,13 +58,21 @@ Let's take action on these two steps to help close the lead.
   
 6. Reset your filters. Use the search bar to search for one of the following leads: **Rachel Michael**, **Gerald Stephens**, or **Lilly Pyles.** Once the record in the work list is opened, it disappears from the view because it is no longer unopened.
 
-7. Under the Lead name, switch from the **Sales trial** form to the **Sales Insights** form. On the lead record in the Sales accelerator workspace, take a look at the following:
+7. Let's ask Copilot to summarize the lead for us. Expand the Copilot pane by selecting the **Copilot** icon in the bar on the far right. In the text box, type "Summarize lead /". After the /, start typing the lead's name. When the lead name pops up, select it and then press enter.
+
+8. Review the lead summary.
+
+9. Let's see when the lead was last worked on. Click your cursor into the Copilot text box. Suggested prompts will appear. Select *Show recent changes for lead."
+
+10. After the /, type your lead's name. When the lead name pops up, select it and then press enter. Copilot will let us know when the lead was last updated.
+
+12. Under the Lead name, switch from the **Sales trial** form to the **Sales Insights** form. On the lead record in the Sales accelerator workspace, take a look at the following:
    - The Up Next widget, showing the next task and its due date.
    - The timeline.
    - The lead score. Hover over the factors below the lead score grade. Show the insights behind the lead scores.
    - Relationship health.
    
-8. Switch to the **Relationship analytics** tab. Take a look at the following:
+11. Switch to the **Relationship analytics** tab. Take a look at the following:
    - Summary, with key insights computed from previous years.
    - Relationship health.
    - Client's contacts and your colleagues.
@@ -74,13 +82,13 @@ Let's take action on these two steps to help close the lead.
    - Email send/receive ratio.
    - Relationship activities.
   
-9. Let's take action on this lead to improve our predictive lead score.
+11. Let's take action on this lead to improve our predictive lead score.
     - Expand the **Qualify** stage of the business process flow.
     - Change Purchase Timeframe to **Next quarter.**
     - Change Estimated Budget to **40,000.**
     - Change Purchase Process to **Individual.**
 
-10. **Save** the record. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
+12. **Save** the record. Scores are refreshed every 24 hours, so you will not see the lead score update in real time. Congratulations! You have taken action to improve the lead score for this lead.
   
 ## Exercise 3.3: Create new sequence
 
