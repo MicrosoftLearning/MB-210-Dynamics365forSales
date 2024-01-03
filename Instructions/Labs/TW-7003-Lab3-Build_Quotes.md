@@ -1,14 +1,7 @@
----
-lab:
-    title: 'Lab 3.2: Build quotes'
-    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
----
-
-
-Module 3: Manage orders and product catalog with Dynamics 365
+TW-7003: Optimize the Sales Process with Dynamics 365 Sales
 ==============================
 
-## Practice Lab 3.2 – Build quotes
+## Lab 3: Build quotes
 
 Scenario
 --------
