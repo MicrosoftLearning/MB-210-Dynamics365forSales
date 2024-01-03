@@ -1,14 +1,8 @@
----
-lab:
-    title: 'Lab 2.1: Manage Customers'
-    module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
----
 
-
-Module 2: Manage leads and opportunities with Dynamics 365 Sales
+TW-7003: Optimize the Sales Process with Dynamics 365 Sales
 ==================================
 
-## Practice Lab 2.1 – Manage customers
+## Lab 2: Manage customers
 
 Scenario
 --------
