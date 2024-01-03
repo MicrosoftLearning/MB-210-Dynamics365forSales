@@ -1,16 +1,10 @@
----
-lab:
-    title: 'Lab 1.1: Validate lab environment'
-    module: 'Module 1: Configure Dynamics 365 Sales'
----
 
-
-Module 1: Configure Dynamics 365 Sales
+TW-7003: Optimize the Dynamics 365 Sales Process
 ========================
 
-**Important notice for instructors:** Please do not make any changes, including adding licenses or changing tenant password. Tenants are fully provisioned with all necessary licenses, environments, and applications to complete the required tenants. Instructors and students should not add any additional functionality outside of the published lab steps. Adding additional functionality will cause the tenant to break and become inactive, and changing tenant password will inhibit the recycling of the tenant for the next class. Thank you for your cooperation.
+**Important notice for instructors and students:** Please do not make any changes, including adding licenses or changing tenant password. Tenants are fully provisioned with all necessary licenses, environments, and applications to complete the required tenants. Instructors and students should not add any additional functionality outside of the published lab steps. Adding additional functionality will cause the tenant to break and become inactive, and changing tenant password will inhibit the recycling of the tenant for the next class. Thank you for your cooperation.
 
-## Practice Lab 1.1 - Validate lab environment 
+## Lab 1: Validate lab environment 
 
 Scenario
 --------
