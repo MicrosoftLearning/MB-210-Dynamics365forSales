@@ -1,7 +1,7 @@
 TW-7003: Optimize the Sales Process with Dynamics 365 Sales
 ==============================
 
-## Lab 3: Manage product catalog
+## Lab 2: Manage product catalog
 
 Scenario
 --------
