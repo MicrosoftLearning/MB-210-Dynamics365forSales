@@ -2,7 +2,7 @@
 TW-7003: Optimize the Sales Process with Dynamics 365 Sales
 ==================================
 
-## Lab 2: Manage customers
+## Lab 1: Manage customers
 
 Scenario
 --------
