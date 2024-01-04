@@ -129,3 +129,35 @@ created when a lead goes through the qualification process.
 
 6.  The Lead will be reactivated, the status will change back to New, and the record
     will become editable.
+
+### Task 5 - Draft and send an email using Copilot
+
+Let's introduce ourselves to our new lead, Jane, via email. Return to your **Leads** view and select Jane's record.
+
+1. In the Timeline, select the plus sign and select **Email.**
+
+2. In the **Subject** pane, enter **Trade show follow-up**.
+
+3. The Copilot pane will open automatically on the right side of the screen. 
+
+4. Select **Describe the email you want.**
+
+5. Describe the email you want to send in the text box. (Write something like: "Introduce yourself after meeting Jane at the trade show. Ask if she is still interested in purchasing any products and if so which ones?")
+
+6. Click the arrow to submit your prompt.
+
+7. Take a look at the generated email. 
+
+8. Click the **Adjust draft** button (looks like 2 sliders) below the generated email.
+
+9. Adjust the tone to **Friendly.**
+
+10. In the text box, add "Tell Jane we have a showroom in her city."
+
+11. Select **Update.**
+
+12. Take a look at the email. Make any edits as you see fit. When you think it's ready to send, select **Add to email.**
+
+13. Select **Send.**
+
+14. Take a look at the **Timeline** on the opportunity record. Your email will appear here.
