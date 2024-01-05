@@ -1,7 +1,7 @@
 TW-7003: Optimize the Sales Process with Dynamics 365 Sales
 ==============================
 
-## Lab 4: Orders and invoices
+## Lab 4: Create orders and send invoices
 
 Scenario
 --------
