@@ -29,25 +29,25 @@ In this task, you will create an Orders from a Quote.
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
-2.  In the left menu, select **Quotes.**
+2.  In the left menu, select **Quotes**.
 
 3.  Open the **Quote** you created titled **[my prefix] Interested in Top D. System**.
 
-    **Hint:** Change the view to **My Quotes** to retrieve the quotes created.
+    > **Hint:** Change the view to **My Quotes** to retrieve the quotes created.
 
-4.  Click **Create Order**.
+4.  Select **Create Order**.
 
 5.  Leave everything as default and click **OK**.
 
 6.  The **Order** form will open. You can edit the **Order** information.
 
-7.  Click on the vertical ellipses button at the end of the command bar. Select **Word Template** and then select
+7.  Select the vertical ellipsis button (⋮) at the end of the command bar. Select **Word Template** and then select
     **Order Summary**.
 
 8.  Open the generated Word document and review the **Order**. Close the Order
     Summary.
 
-9. Select the vertical ellipses button at the end of the command bar and select **Fulfill Order**.
+9.  Select the vertical ellipsis button (⋮) at the end of the command bar and select **Fulfill Order**.
 
 10. Select **Fulfill**. The record will become read-only. Do not navigate away from this page.
 
@@ -62,12 +62,13 @@ In this task, you will create an Invoice.
 
 3.  The **Invoice** form will open.
 
-4.  Click on the vertical ellipses button at the end of the command bar. Select **Word Template** and then select
+4.  Select the vertical ellipsis button (⋮) at the end of the command bar. Select **Word Template** and then select
     **Invoice Summary**.
 
 5.  Open the generated Word doc and review the **Invoice**. Close the Invoice
     Summary.
 
-6.  We will assume the Customer paid in full. Click **Invoice Paid**.
+6.  We will assume the Customer paid in full. Select **Invoice Paid**.
 
 7.  Select **OK** to mark the Invoice as Complete.
+
