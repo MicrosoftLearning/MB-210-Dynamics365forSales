@@ -1,3 +1,5 @@
+**This course will be retiring on  **2024/11/29**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+
 # MB-210 - Microsoft Dynamics 365 Sales
 
 - **[Download Latest Student Handbook and AllFiles Content](https://learningdownloadcenter.microsoft.com/)**
