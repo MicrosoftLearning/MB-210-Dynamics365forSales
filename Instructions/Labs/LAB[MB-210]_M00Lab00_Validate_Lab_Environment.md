@@ -1,54 +1,26 @@
 ---
 lab:
-    title: 'Lab 1.1: Validate lab environment'
-    module: 'Module 1: Configure Dynamics 365 Sales'
+    title: 'Lab 0: Validate lab environment'
 ---
 
+# Module 1: Configure Dynamics 365 Sales
 
-Module 1: Configure Dynamics 365 Sales
-========================
+## Practice Lab 0 - Validate lab environment
 
-**Important notice for instructors:** Please do not make any changes, including adding licenses or changing tenant password. Tenants are fully provisioned with all necessary licenses, environments, and applications to complete the required tenants. Instructors and students should not add any additional functionality outside of the published lab steps. Adding additional functionality will cause the tenant to break and become inactive, and changing tenant password will inhibit the recycling of the tenant for the next class. Thank you for your cooperation.
+### Scenario
+Contoso Coffee produces high-quality coffee and coffee machines, which they retail through channels including new Contoso Retail Stores in premium locations, premium food resellers and the Contoso Coffee Web Site.
+Contoso Coffee is looking to formalize their sales process to increase revenue and give leadership, stronger forecasting abilities. You are a functional consultant configuring Dynamics 365 for Sales for Contoso Coffee. In this lab, you will install the Sales application and install sample data.
+This new offering will help them to build direct relationship with their customers and learn more about how customers consume their products.
 
-## Practice Lab 1.1 - Validate lab environment 
+### Exercise 1 – Access a trial environment
 
-Scenario
---------
-
-World Wide Importers (WWI) is looking to formalize their sales process to
-increase revenue and give leadership, the stronger forecasting abilities. You are
-a functional consultant configuring Dynamics 365 for Sales for World Wide
-Importers. In this lab, you will install the Sales application and install
-sample data.
-
-In this Module 0 lab, you will validate that your classroom tenant is working as expected. You will access your individual credentials, record your “alias”, and open the Dynamics 365 model-driven application that we will be using throughout the course. 
-
-**Important Note:** This lab will provide you with an actual Dynamics 365 tenant
-and licenses for the Power Platform applications you will be using in this
-course. Please be aware that the Power Platform is evolving all the time. The
-instructions in this document may be different from what you experience in your
-actual tenant. It is also possible to experience a delay of several
-minutes before the virtual machine has network connectivity to begin the labs.
-
-
-Exercise 1 - Access the Dynamics 365 application
----------------------------------------------------
-
-### Task 1 – Log into the Power Platform admin center
-
-1.  Access <https://admin.powerplatform.microsoft.com> and log in with your user credentials.
-
-2. Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization. 
-
-   **Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (E.g., **mollyc**) in front of all records, data, apps, flows, etc. you create.
-
-3. Feel free to explore the Power Platform admin center but **do not make any changes**.
-
-
-### Task 2 – Access the Dynamics 365 application
-
-1. Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center**. Select **All apps**.
-
-2. From the list of available Dynamics 365 apps, select **Sales Hub**.
-
-3. Spend a few minutes exploring the application. 
+#### Task 1 – Create a Trial
+1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. In the middle of the screen, you will see two buttons: one to see plans and pricing, the other to try for free. Select **Try for free.**
+3. Locate Dynamic 365 Sales.
+4. Select the **Try for free** button.
+5. In the *Let's get started* screen, enter the credentials that were provided to you as part of your lab environment. Accept the license agreement. (If you are prompted to enter a phone number, you can enter 0123456789.)
+6. Select **Start your free trial**.
+7. (If prompted, select **Launch Trial** in the pop-up.
+8. Your trial will launch. It may take a few minutes for your environment to open.
+9. In the header, select **Sales trial.** This will open your list of available apps. In this course, we will be working mostly in the **Sales Hub.** Select **Sales Hub** to open the application.
+10. Feel free to take a few minutes to explore the application.
