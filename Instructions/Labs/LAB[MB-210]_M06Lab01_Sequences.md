@@ -39,7 +39,7 @@ In this lab, we will create a simple sales sequence for your sellers to follow.
 
 1. Assign name, description and choose the type of table that the sequence will be available for.
 
-2. In the Sequence Name text box, type the sequence name, **[my prefix] Sequence.** 
+2. In the Sequence name text box, type the sequence name, **Sequence.** 
 
 3. In the **Description** text box, enter sequence description: "This is a test sequence for my test customer."
 
@@ -56,7 +56,7 @@ Choose the first step for your sellers to take. This can be either sending an em
 
 2. Click on **Send an email**. 
 
-3. For **Title**, enter: **[my prefix] Introduction email**.
+3. For **Title**, enter: **Introduction email**.
 
 4. For **Description** optionally, enter a description: **Introduce lead to the sales team.**
 
@@ -82,7 +82,7 @@ an email, making a phone call or add a task of your own. Select **Set wait time*
 
 3. Click **Save**.
 
-4. In a similar manner, add a phone call activity. Select the **+** sign and select **Phone call**. For name, type **[my prefix] Follow-up call.** Add a description.
+4. In a similar manner, add a phone call activity. Select the **+** sign and select **Phone call**. For name, type **Follow-up call.** Add a description.
 
 5. Select **Save** on the command bar.
 
@@ -104,12 +104,12 @@ To make the sequence available for sellers to use, activate the sequence.
 
 2. Select **Leads** from the site navigation menu.
 
-3. **Open** the Lead you created earlier in the course. It should start with [your prefix]. If you have more than one, select one randomly.
+3. **Open** the Lead you created earlier in the course. If you have more than one, select one randomly.
 
 4. Select **Connect sequence** from the command bar.
 
-   The list of available sequences includes sequences created by you and other users for the **Lead** table.
+   The list of available sequences includes sequences created by you for the **Lead** table.
 
-5. Select the Sequence you created (it should start with your prefix) and select **Connect**.
+5. Select the Sequence you created and select **Connect**.
 
 6. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record. Now, sellers who have access to the lead record can see the activities connected with it.
