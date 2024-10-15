@@ -47,17 +47,17 @@ two with company information.
 
 4.  Click **+ New**.
 
-5.  Enter **[my prefix] Lead Without Company** for **Topic**, **Jane** for **First Name**,
+5.  Enter **Lead Without Company** for **Topic**, **Jane** for **First Name**,
     **Doe** for **Last Name**, and click **Save**.
 
 6.  Click **+ New** again.
 
-7.  Enter **[my prefix] Lead with Company** for **Topic**, **Jon** for **First Name, Doe**
+7.  Enter **Lead with Company** for **Topic**, **Jon** for **First Name, Doe**
     for **Last Name**, **Doe Inc.** for **Company**, and click **Save**.
 
 8.  Click **+ New** one more time.
 
-9.  Enter **[my prefix] Another Lead** for **Topic**, **Jack** for **First Name**, **Smith** for
+9.  Enter **Another Lead** for **Topic**, **Jack** for **First Name**, **Smith** for
     **Last Name,** **Test Inc**. for **Company**, and click **Save**.
 
 Exercise 2 – Lead Qualifications
@@ -129,7 +129,7 @@ created when a lead goes through the qualification process.
 3.  The Lead you disqualified is no longer in the **My Open Leads** view. Change
     the View to **Closed Leads**.
 
-4.  Locate **Another Lead** and open it. (Ensure the lead has your prefix.)
+4.  Locate **Another Lead** and open it.
 
 5.  Click **Reactivate Lead**.
 

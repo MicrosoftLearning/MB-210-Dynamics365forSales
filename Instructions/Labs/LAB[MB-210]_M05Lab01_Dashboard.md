@@ -32,7 +32,7 @@ Sales managers would like to more effectively monitor their sales team's success
 
 1. The dashboard designer will open in a new window. (If your new dashboard does not open in a new window, make sure the pop-up blocker is disabled.) The designer may take a minute to load.
 
-1. In the **Name** text box, type "[my prefix] Sales Manager Dashboard".
+1. In the **Name** text box, type "Sales Manager Dashboard".
 
 1. Let's add a component to the upper left section. Sales managers are requesting an easy way to see the amount of won versus lost revenue from opportunities. They'd like this information in a graphical view. To accomplish this, we will add a chart by selecting the **Insert Chart** icon in the middle of the upper left section. 
 

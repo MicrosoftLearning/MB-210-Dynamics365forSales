@@ -34,30 +34,30 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 3.  Click **+ New**.
 
-4.  Enter **[my prefix] Interested in Top D. System** for **Topic**, select **Jon Doe** for
+4.  Enter **Interested in Top D. System** for **Topic**, select **Jon Doe** for
     **Contact**, select **Doe Inc.** for **Account** and select **Save**.
 
 5.  Select the **Products** tab. 
 
 6.  You must select a **Price List** before you can add Opportunity Products.
-    Select **[my prefix] Top D. Electronics** for **Price List**.
+    Select **Top D. Electronics** for **Price List**.
 
 7.  Select **System Calculated** for **Revenue**.
 
 8.  Above the subgrid, click **+ Add products**.
 
-9.  From the **All products** list, find **[my prefix] DX Power Supply**, enter **2** for
+9.  From the **All products** list, find **DX Power Supply**, enter **2** for
     **Quantity**, select **Add**.
 
-10. Find **[my prefix] Top D. Comm System** in the list of products, enter **1** for
+10. Find **Top D. Comm System** in the list of products, enter **1** for
     **Quantity** and select **Add**.
 
-11. Find **[my prefix] Top D. HiFi** in the list of products, enter **1** for
+11. Find **Top D. HiFi** in the list of products, enter **1** for
     **Quantity** and select **Add**.
 
-12. You will see three products are **Selected**. Select **Save to opportunity**.
+12. You will see three products are **Selected**. Select **Save to Opportunity**.
 
-13. Double click on the **[my prefix] Top D. HiFi** product.
+13. Double click on the **Top D. HiFi** product.
 
 14. Locate the **Volume Discount** field. You will find that there is no
     discount for buying one Speaker. 
@@ -74,7 +74,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
-2.  Open the Opportunity you created in the previous task. It will be called **[my prefix] Interested in Top D. System.**
+2.  Open the Opportunity you created in the previous task. It will be called **Interested in Top D. System.**
 
 3.  Select the **Quotes** tab.
 
@@ -83,7 +83,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 5.  The **Quote** form will open, and relevant information will be copied from the
     Opportunity.
 
-6.  On the **[my prefix] Interested in Top D. System.** Quote page. Examine the **Products** sub-grid and make sure products and their
+6.  On the **Interested in Top D. System.** Quote page. Examine the **Products** sub-grid and make sure products and their
     quantities look as you expected. You can change the quantities and discount
     the price of each line item.
 
